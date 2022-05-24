@@ -24,6 +24,7 @@ Finds clusters in Z-Scores to stratify autism on normative cortical thickness wi
 <p align="center">
   <img width="450" alt="image" src="https://user-images.githubusercontent.com/77856551/169999696-f2e3c5d4-bceb-4e81-bf00-f27db23c157d.png">
 </p>
+
 Use [scikit-learn](https://scikit-learn.org/stable/) packages. 
 
 ## Spearman's correlation
@@ -40,7 +41,7 @@ Use [scipy](https://scipy.org/) packages.
 ## T-Tests
 Perfoms case-control tests between ASD Z-Scores and TD Z-Scores.
 
-Use scipy and [statsmodels]( https://www.statsmodels.org/stable/index.html) packages.
+Use scipy and [statsmodels](https://www.statsmodels.org/stable/index.html) packages.
 
 ## Brain maps
 Maps atypicality based on Z-Scores across brain regions. 
