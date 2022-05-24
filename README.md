@@ -2,7 +2,7 @@
 This notebook performs normative modelling analysis on data from EU-AIMS consortium and Robert Debré Hospital (Paris) for ASD study.
 
 ## Data
-Data includes cortical thickness/surface areas and demographic/clinical informations for all subjects. 
+Data includes cortical thickness, surface areas and demographic, clinical informations for all subjects. 
 
 Note that autism scores are only available for EU-AIMS data. Description of these scores can be found in the data folder.  
 
