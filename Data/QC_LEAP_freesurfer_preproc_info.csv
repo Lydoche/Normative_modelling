@@ -1,0 +1,709 @@
+participant_id;site;final_decision_bin;final_decision_why;rating_rater_1;rating_rater_2;rating_rater_3;comments_rater_1;comments_rater_2;comments_rater_3;deface_okay
+100693509718    ;Rome;include;include_edit_after_edits;rating_edit;rating_edit;rating_edit;dura;;;0
+101129844643    ;London_KCL;include;include_orig_after_edits;rating_edit;rating_edit;rating_edit;WM frontal;;;1
+101414625982    ;London_KCL;include;include_edit_after_edits;rating_edit;rating_edit;rating_edit;WM temporal and frontal;;;1
+101900205031    ;Nijmegen;include;include_edit_after_edits;rating_edit;rating_edit;rating_edit;minor dura and WM temporal;;;1
+104324981539    ;London_KCL;include;include_edit_after_edits;rating_edit;rating_edit;rating_edit;minor dura and WM frontal;;;1
+105629441917    ;Utrecht_UMCU;include;direct_include;rating_accept;rating_accept;rating_accept;fiiiine;;;1
+107356654390    ;London_KCL;include;include_edit_after_edits;rating_edit;rating_edit;rating_edit;dura and Wm temporal and occipital;;;1
+107501679619    ;London_KCL;include;include_edit_after_edits;rating_edit;rating_edit;rating_edit;Wm frontal and temporal;;;1
+109182897329    ;Utrecht_UMCU;include;direct_include;rating_accept;rating_accept;rating_accept;;;;1
+109314636234    ;London_KCL;exclude;direct_exclude;rating_reject;rating_reject;rating_reject;frontal very badly segmented;;;1
+111297432251    ;Cambridge;include;direct_include;rating_accept;rating_accept;rating_accept;perfect;;;1
+112152703248    ;Cambridge;include;direct_include;rating_accept;rating_accept;rating_accept;bgood enough;;;1
+112250651739    ;Nijmegen;include;direct_include;rating_accept;rating_accept;rating_accept;;;;1
+112353982965    ;London_KCL;include;include_edit_after_edits;rating_edit;rating_edit;rating_accept;dura mater in occipital;rh dura;minor dura;1
+113902830642    ;Utrecht_UMCU;exclude;direct_exclude;rating_reject;rating_reject;rating_reject;too many major errors throughou the brain;too many major edits (WM, omission artifact, dura;many major errors;1
+114414660031    ;Utrecht_UMCU;include;direct_include;rating_edit;rating_accept;rating_accept;WM left temporal lobe;good enough to accept, but minor WM edits on left temporal lobe possible;;1
+115677420583    ;Utrecht_UMCU;include;include_orig_after_edits;rating_edit;rating_edit;rating_edit;WM left temporal lobe;WM left temporal lobe;WM temporal;1
+116829617056    ;London_KCL;include;include_edit_after_edits;rating_edit;rating_accept;rating_edit;dura and WM in the left temporal lobe (and minor in frontal lobes);;WM frontal and temporal, dura;1
+118194667229    ;Nijmegen;include;direct_include;rating_accept;rating_accept;rating_accept;errors in the visualization of the segmentation (crashed);;;1
+118910793563    ;Mannheim;include;direct_include;rating_edit;rating_accept;rating_accept;minor in WM temporal and frontal;;dura minor;1
+118980777980    ;London_KCL;include;direct_include;rating_accept;rating_accept;rating_accept;;minor WM occipital lobe;;1
+123709183152    ;Mannheim;include;include_edit_after_edits;rating_edit;rating_accept;rating_edit;dura (minor), WM segmentation of the frontal lobes;;WM, dura;1
+123942366629    ;Rome;include;include_edit_after_edits;rating_edit;rating_edit;rating_edit;dura (minor due to motion artifcats), WM segmentation of right temporal;movement, maybe dura could be edited;minor dura, movement artifacts;1
+124737109801    ;Cambridge;include;include_edit_after_edits;rating_edit;rating_accept;rating_edit;WM segmentation in frontal lobes;;minor WM frontal, you could also accept it like this;1
+125610027898    ;London_KCL;include;include_edit_after_edits;rating_edit;rating_accept;rating_edit;WM right tempoal lobe;;minor WM frontal and minor dura;1
+127510187827    ;London_KCL;include;include_edit_after_edits;rating_edit;rating_edit;rating_accept;WM right temporal;dura edits;minor dura;1
+128031666740    ;London_KCL;exclude;direct_exclude;rating_reject;rating_reject;rating_reject;major motion artefacts;movement;really bad movement artifacts;1
+130442593612    ;Cambridge;include;include_edit_after_edits;rating_edit;rating_edit;rating_edit;dura, and minor WM in frontal lobes;dura edits left frontal;dura;1
+130676386679    ;Mannheim;include;include_orig_after_edits;rating_edit;rating_edit;rating_accept;Wm left frontal lobe;minor: WM, small part of left frontal lobe is missing;;1
+132297073493    ;Utrecht_UMCU;include;direct_include;rating_edit;rating_accept;rating_accept;WM left frontal;;;1
+133731063641    ;London_KCL;include;include_edit_after_edits;rating_edit;rating_edit;rating_edit;major errors in the WM segmentation of both temporal lobes;dura lh and WM right temporal;WM frontal (and temporal), dura;1
+136287182777    ;London_KCL;exclude;exclude_special;rating_edit;rating_edit;rating_accept;minor dura;dura edits rh;minor dura;1
+136536288793    ;Rome;include;include_edit_after_edits;rating_edit;rating_edit;rating_accept;Wm frontal and bilateral temporal;dura edits left and right;;1
+136851282877    ;Nijmegen;include;direct_include;rating_accept;rating_reject;rating_edit;severe motion/ringing artifacts i(tht cannot be fixed) in fronto-parietal;movement artifacts;dura, ringing artefacts;1
+137282891018    ;Nijmegen;include;direct_include;rating_accept;rating_edit;rating_accept;;dura edits, mostly on left hemisphere (frontal and temporal);minoe dura;1
+141031925901    ;Cambridge;exclude;direct_exclude;rating_reject;rating_reject;rating_edit;too many major errors in WM segmenattion to be fixed;motion artifacts;several WM, maybe exclude;1
+141793096301    ;Nijmegen;include;direct_include;rating_accept;rating_accept;rating_accept;very minor error in the WM segmentation of the left temporal lobe;;;1
+144831247766    ;Rome;include;include_edit_after_edits;rating_edit;rating_accept;rating_edit;WM frontal and bilateral temporal;"WM right temporal pole and dura; but due to motion so cannot be corrected?";WM temporal, minor dura;1
+145098407477    ;Utrecht_UMCU;include;direct_include;rating_edit;rating_accept;rating_accept;mior error in WM of left temporal lobe;;minor WM frontal;1
+145899409424    ;Rome;include;direct_include;rating_edit;rating_edit;rating_accept;WM right temporal;dura right inferior frontal;minor dura;1
+149668037941    ;Rome;include;include_edit_after_edits;rating_edit;rating_reject;rating_edit;dura, WM bilateral temporal;motion artifacts;minor dura, scanner artifacts, not editable;1
+150761304327    ;Utrecht_UMCU;include;direct_include;rating_accept;rating_accept;rating_accept;;minor dura edits: right parietal;;1
+152479781222    ;Mannheim;include;direct_include;rating_accept;rating_accept;rating_accept;;;;1
+153562611492    ;Cambridge;include;include_edit_after_edits;rating_edit;rating_edit;rating_accept;WM frontal and temporal;dura edits left and right frontal;;1
+155192407573    ;London_KCL;exclude;direct_exclude;rating_reject;rating_reject;rating_reject;extremely severe motion disturbances;strong motion artifacts;very bad motion artefacts;1
+156266822057    ;London_KCL;include;include_edit_after_edits;rating_edit;rating_edit;rating_accept;minor dura and WM in temporal;try to edit dura, if impossible maybe exclude?;;1
+156275255538    ;London_KCL;exclude;direct_exclude;rating_reject;rating_reject;rating_reject;extermely severe motion artifacts;motion;very bad motion artefacts;1
+157057245454    ;Nijmegen;include;direct_include;rating_accept;rating_edit;rating_accept;very minor skull stripping (dura mater) errors;dura edits on left and right hemi;minor dura;1
+157130105776    ;London_KCL;include;direct_include;rating_edit;rating_accept;rating_accept;WM left temporal and occipital;motion, but acceptable;;1
+157923026370    ;Nijmegen;include;direct_include;rating_edit;rating_accept;rating_accept;WM right frontal and left temporal;minor dura edits, but acceptable;;1
+158414641992    ;Nijmegen;exclude;direct_exclude;rating_reject;rating_reject;rating_edit;very severe ringing artefacts;too many WM and dura edits, motion;several WM errors, but also ringing artefacts;1
+158575356558    ;Mannheim;include;direct_include;rating_edit;rating_accept;rating_accept;minor WM left frontal;;;1
+159609609900    ;Utrecht_UMCU;include;include_orig_after_edits;rating_edit;rating_edit;rating_edit;WM left temporal;WM left temporal lobe;WM temporal;1
+160054811236    ;Nijmegen;include;direct_include;rating_accept;rating_accept;rating_accept;;;;1
+160293273948    ;Nijmegen;include;include_edit_after_edits;rating_edit;rating_edit;rating_edit;WM frontal and biateral temporal;movement, but maybe it's possible to edit dura?;minor dura, movement artifact, not editable;1
+161926513236    ;Mannheim;include;direct_include;rating_edit;rating_accept;rating_accept;WM bilateral frontal and left temporal;;minor WM frontal, movement, not editable;1
+162000603879    ;Cambridge;include;direct_include;rating_accept;rating_accept;rating_accept;;;;1
+166001935037    ;Nijmegen;include;include_edit_after_edits;rating_edit;rating_edit;rating_edit;WM bilateral temporal;bilateral dura edits;WM right temporal;1
+166942277585    ;Mannheim;include;direct_include;rating_accept;rating_edit;rating_accept;;dura edits;;1
+167021385402    ;London_KCL;include;include_edit_after_edits;rating_edit;rating_edit;rating_edit;WM frontal;minor dura edits rh occipital and rh parietal;WM frontal and temporal;1
+169356641606    ;Nijmegen;include;include_edit_after_edits;rating_edit;rating_accept;rating_edit;WM frontal and temporal;motion, but looks acceptable;WM temporal, minor dura, quite strong movement, not editable;1
+171442086801    ;Utrecht_UMCU;include;include_edit_after_edits;rating_edit;rating_reject;rating_reject;dura, WM frontal;motion artifacts;ringing artefacts;1
+175673514462    ;Nijmegen;include;direct_include;rating_accept;rating_accept;rating_accept;very minor dura;minor dura edits lh parietal, around slice 115;minor dura;1
+175721011373    ;Nijmegen;include;direct_include;rating_accept;rating_accept;rating_accept;;;;1
+177800559886    ;Nijmegen;include;direct_include;rating_accept;rating_accept;rating_accept;;;;1
+178105062231    ;London_KCL;include;include_edit_after_edits;rating_edit;rating_accept;rating_edit;WM right temporal and frontal;;WM frontal;1
+181254963534    ;Cambridge;include;direct_include;rating_accept;rating_accept;rating_accept;;;minor dura;1
+181963433776    ;London_KCL;include;direct_include;rating_accept;rating_accept;rating_accept;;minor dura edits rh;minor dura;1
+182470933796    ;Cambridge;include;direct_include;rating_accept;rating_accept;rating_accept;;;;1
+183456420392    ;Utrecht_UMCU;include;include_edit_after_edits;rating_edit;rating_edit;rating_edit;dura, WM right temporal;bilateral dura edits parietal;dura;1
+183962358736    ;London_KCL;include;direct_include;rating_edit;rating_accept;rating_accept;WM right frontal, temporal and occipital;not sure if dura edits would work;;1
+184436430559    ;Nijmegen;include;direct_include;rating_edit;rating_accept;rating_accept;WM right frontal;;;1
+184577901153    ;London_KCL;exclude;exclude_special;rating_edit;rating_accept;rating_edit;several major WM errors throught the brain (possible exclusion);;several WM errors;1
+185048685294    ;Utrecht_UMCU;include;direct_include;rating_accept;rating_accept;rating_accept;;;minor WM temporal right;1
+186014141169    ;Nijmegen;include;include_edit_after_edits;rating_edit;rating_edit;rating_accept;minor WM left frontal and right temporal;dura bilateral inferior frontal;;1
+186734682586    ;London_KCL;include;include_orig_after_edits;rating_edit;rating_edit;rating_edit;WM frontal and (major) bilateral temporal;WM lh parietal, WM rh temporal;WM bilateral frontal but especially right, WM left temporal;1
+188048341660    ;Mannheim;include;direct_include;rating_accept;rating_edit;rating_accept;;dura bilateral parietal, WM rh frontal;minor dura;1
+190718033121    ;Nijmegen;include;include_edit_after_edits;rating_edit;rating_accept;rating_edit;WM right temporal;;WM right temporal;1
+195056918956    ;Utrecht_UMCU;include;direct_include;rating_edit;rating_accept;rating_accept;Wm right temporal;;;1
+195924035910    ;Cambridge;include;direct_include;rating_accept;rating_accept;rating_accept;;;;1
+196084871273    ;Rome;include;direct_include;rating_accept;rating_accept;rating_accept;;;;1
+196526905399    ;Nijmegen;include;direct_include;rating_accept;rating_edit;rating_accept;;minor dura edits lh frontal;minor dura;1
+198048766808    ;London_KCL;include;direct_include;rating_edit;rating_accept;rating_accept;WM right temporal and (minor) frontal and occipital;;minor WM left frontal;1
+198955934445    ;London_KCL;include;include_edit_after_edits;rating_edit;rating_reject;rating_edit;dura mater, and (minor) WM;too many edits;dura, minor right temporal;1
+199958815887    ;Nijmegen;include;direct_include;rating_accept;rating_accept;rating_accept;;;;1
+200472210738    ;London_KCL;include;include_edit_after_edits;rating_edit;rating_edit;rating_accept;dura, and (minor) WM left temporal;dura bilateral parietal lobes;minor dura;1
+201781530814    ;London_KCL;include;include_edit_after_edits;rating_edit;rating_edit;rating_edit;major WM reconstruction errors throughout the brain;motion, if possible: dura edits;several WM, dura;1
+202887019892    ;Nijmegen;include;direct_include;rating_accept;rating_accept;rating_accept;;;minor dura;1
+204078341146    ;Mannheim;include;direct_include;rating_accept;rating_accept;rating_accept;;;;1
+206523187654    ;London_KCL;include;direct_include;rating_accept;rating_accept;rating_accept;;;minor dura;1
+209666958265    ;Rome;include;direct_include;rating_accept;rating_reject;rating_accept;;omissions due to motion artifacts;some movement;1
+215510983147    ;Mannheim;include;include_edit_after_edits;rating_edit;rating_edit;rating_edit;dura;dura lh parietal;dura;1
+217861104942    ;Utrecht_UMCU;include;direct_include;rating_accept;rating_accept;rating_accept;;;;1
+219811218558    ;Cambridge;include;direct_include;rating_accept;rating_accept;rating_accept;;;;1
+220295159492    ;Nijmegen;include;direct_include;rating_accept;rating_accept;rating_accept;;;;1
+220947892915    ;Nijmegen;include;include_edit_after_edits;rating_edit;rating_accept;rating_edit;WM right temporal;;WM right temporal;1
+221176289844    ;London_KCL;include;direct_include;rating_accept;rating_accept;rating_accept;;;some movement;1
+224060371605    ;London_KCL;include;include_orig_after_edits;rating_edit;rating_edit;rating_accept;dura, WM frontal and temporal;dura edits lh;minor dura, some movement;1
+224399754295    ;Cambridge;include;include_edit_after_edits;rating_edit;rating_edit;rating_accept;dura, WM;dr;;1
+224830515714    ;Mannheim;include;include_edit_after_edits;rating_edit;rating_edit;rating_edit;dura;dura edits lh temporal and parietal;dura;1
+225718634848    ;Rome;include;include_edit_after_edits;rating_edit;rating_accept;rating_edit;dura, WM left temporal;minor dura edits (not sure if possible due to motion);dura;1
+227007190710    ;Nijmegen;include;direct_include;rating_accept;rating_accept;rating_accept;;;minor dura;1
+229219433754    ;Mannheim;include;direct_include;rating_accept;rating_accept;rating_accept;;;;1
+229951973089    ;London_KCL;include;include_edit_after_edits;rating_edit;rating_reject;rating_edit;WM frontal (bad), right temporal and occipital (also cloning error);too many major WM edits;WM right parietal;1
+230491665566    ;London_KCL;include;direct_include;rating_accept;rating_accept;rating_edit;error in visualization of subcortcial segmentation (crashed);no segmentation loaded;minor dura;1
+230568388344    ;London_KCL;include;include_edit_after_edits;rating_edit;rating_reject;rating_edit;dura, WM frontal parietal and occipital;motion;WM right parietal;1
+232366221199    ;Nijmegen;include;direct_include;rating_edit;rating_accept;rating_accept;WM left temporal;motion, but maybe acceptable;minor dura;1
+234478915322    ;Nijmegen;include;direct_include;rating_edit;rating_accept;rating_accept;dura mater in parietal;accepted, despite small dura edits;minor dura;1
+234602244411    ;London_KCL;exclude;direct_exclude;rating_reject;rating_reject;rating_edit;several major errors due to motion;motion;dura, movement;1
+235350958604    ;London_KCL;include;include_edit_after_edits;rating_edit;rating_accept;rating_edit;WM bilateral temporal;;dura;1
+236256460571    ;Nijmegen;include;direct_include;rating_accept;rating_accept;rating_accept;;accepted despite minor dura edits;minor dura;1
+236929058799    ;London_KCL;exclude;direct_exclude;rating_reject;rating_reject;rating_reject;several major errors throughout the scan;motion;too much movement;1
+239191121558    ;London_KCL;include;include_edit_after_edits;rating_edit;rating_reject;rating_edit;several major WM errors in fronto temporal occipital (oconsiderable for exclusion);motion;dura;1
+239352843676    ;Mannheim;include;direct_include;rating_accept;rating_edit;rating_accept;;WM right temporal lobe;minor dura;1
+240882777282    ;Cambridge;exclude;direct_exclude;rating_reject;rating_reject;rating_reject;crashed. no segmentation nor surfaces computed, probably due to large anatomical abnormality and extremely dilated ventricles;anatomical abnormalities, no segmentation&parcellation;anatomical abnormalities, huge ventricel, Freesurfer was not able to create surfaces;1
+241215701017    ;Nijmegen;include;direct_include;rating_edit;rating_accept;rating_accept;WM bilateral temporal;motion, probably cannot be edited, but looks acceptable enough to be accepted;movement;1
+243617148831    ;Mannheim;include;include_orig_after_edits;rating_edit;rating_edit;rating_edit;dura;motion, try bilateral frontal dura edits;dura, minor WM right frontal;1
+244104527152    ;London_KCL;include;include_orig_after_edits;rating_edit;rating_edit;rating_edit;dura, and (minor) WM;dura bilateral;dura;1
+247624139482    ;London_KCL;include;include_orig_after_edits;rating_edit;rating_edit;rating_edit;minor WM left temporal;WM right frontal lobe;WM right frontal, dura;1
+248676767882    ;Rome;include;direct_include;rating_accept;rating_accept;rating_edit;1 minor WM error in the tright frontal lobe;acceptable despite motion;dura;1
+250798494359    ;Mannheim;include;direct_include;rating_accept;rating_accept;rating_accept;;;minor dura;1
+251317189021    ;London_KCL;include;direct_include;rating_accept;rating_accept;rating_edit;;accepted, because I think dura edits cannot be performed due to motion?;dura;1
+254706791256    ;Cambridge;include;direct_include;rating_edit;rating_accept;rating_accept;WM frontal and occipital;;;1
+256029070030    ;Nijmegen;include;direct_include;rating_edit;rating_accept;rating_accept;WM frontal and bilateral temporal;not great, but difficult to edit;;1
+257678491670    ;London_KCL;include;include_edit_after_edits;rating_edit;rating_accept;rating_edit;minor WM frontal;acceptable;dura;1
+259866841106    ;London_KCL;include;include_edit_after_edits;rating_edit;rating_accept;rating_edit;minor WM left temporal;minor dura edits left parietal;dura;1
+260851850826    ;Cambridge;include;direct_include;rating_edit;rating_accept;rating_accept;WM right frontal;;movement, not editable;1
+261140684101    ;London_KCL;include;include_edit_after_edits;rating_edit;rating_accept;rating_edit;Wm right frontal and temporal;accepted, difficult to edit;many tiny WM errors, very minor dura;1
+261242874734    ;London_KCL;include;include_edit_after_edits;rating_edit;rating_edit;rating_edit;dura, WM frontal;"major dura edits, mostly right parietal, but also left; maybe even exlude?";minor WM left parietal, minor dura;1
+261249677383    ;London_KCL;include;include_orig_after_edits;rating_edit;rating_edit;rating_edit;dura, WM bilateral temporal;major edits: WM bilateral temporal, dura bilateral parietal and frontal;dura;1
+261561076993    ;Cambridge;exclude;direct_exclude;rating_reject;rating_reject;rating_reject;extremely severe motion disturbances;very strong motion artifacts;too much movement;1
+261811283182    ;Utrecht_UMCU;include;include_edit_after_edits;rating_edit;rating_edit;rating_accept;Wm frontal;minor WM edits on right temporal pole;minor dura;1
+265025813179    ;Utrecht_UMCU;include;direct_include;rating_accept;rating_accept;rating_edit;;minor dura edits on left parietal;dura;1
+268166735779    ;Mannheim;exclude;direct_exclude;rating_edit;rating_reject;rating_reject;some WM errors. However, severe ringing/motion in frontal, ,;strong motion;too much movement;1
+268808354269    ;Nijmegen;include;direct_include;rating_accept;rating_accept;rating_accept;;;;1
+270482106649    ;London_KCL;include;direct_include;rating_edit;rating_accept;rating_accept;(minor) WM left temporal pole;;minor dura;1
+272840296620    ;Cambridge;include;include_orig_after_edits;rating_edit;rating_accept;rating_edit;Wm right temporal lobe;motion, but acceptable;minor dura, movement, not editable;1
+275900515562    ;Nijmegen;include;direct_include;rating_accept;rating_accept;rating_accept;;motion, but cannot be edited;minor dura, movement, not editable;1
+276613040319    ;London_KCL;include;include_edit_after_edits;rating_edit;rating_edit;rating_edit;WM left temporal, and (minor) right frontal;dura edits left and right frontal, WM edits right frontal;dura;1
+277866455055    ;London_KCL;include;include_edit_after_edits;rating_edit;rating_edit;rating_edit;dura;dura edits right fronta;dura;1
+278212296453    ;London_KCL;include;include_orig_after_edits;rating_edit;rating_accept;rating_edit;Wm right (orbito)frontal;;minor WM right frontal, minor dura;1
+279317040809    ;London_KCL;include;direct_include;rating_edit;rating_accept;rating_accept;WM (major) errors in frontal, temporal and parietal;accept, because I wouldn't know how to edit it;minor dura;1
+282653896837    ;London_KCL;include;include_edit_after_edits;rating_edit;rating_edit;rating_edit;minor dura and WM left temporal;major dura edits rh frontal and parietal, lh inf frontal;minor dura;1
+282946437585    ;Nijmegen;include;direct_include;rating_accept;rating_edit;rating_accept;;WM edits right frontal;;1
+287334690970    ;Nijmegen;exclude;direct_exclude;rating_reject;rating_reject;rating_reject;severe motion and scanner artifacts;motion artifacts;too much movement;1
+290770202083    ;Mannheim;exclude;exclude_special;rating_edit;rating_edit;rating_accept;WM bilateral (especialliy left) temporal;dura edits bilateral occipital, WM edits righ frontal;minor dura;1
+294263527638    ;London_KCL;exclude;direct_exclude;rating_reject;rating_reject;rating_reject;severe motion and scanner artifacts;no edits possible, motion;too much movement / ringing;1
+294442129240    ;London_KCL;include;include_edit_after_edits;rating_edit;rating_edit;rating_edit;dura, and major errors in WM segmentation, especially frontal;try WM edits frontal and parietal, if impossible exclude;WM several in right hemisphere;1
+295112357534    ;London_KCL;include;include_edit_after_edits;rating_edit;rating_edit;rating_edit;dura, WM bilateral temporal lobes;major dura edits rh and lh frontal (and occipital);dura;1
+296508265148    ;London_KCL;include;include_edit_after_edits;rating_edit;rating_edit;rating_accept;WM frontal and (especially) occipital;WM edits left parietal and left occipital;;1
+298221697542    ;London_KCL;include;include_edit_after_edits;rating_edit;rating_edit;rating_edit;WM frontal and (minor) right temporal;minor dura edits right parietal, minor WM edits right frontal;WM frontal, dura right hemisphere;1
+300806232821    ;Utrecht_UMCU;include;direct_include;rating_accept;rating_accept;rating_accept;;;;1
+302019961076    ;London_KCL;include;direct_include;rating_accept;rating_edit;rating_accept;;2 minor dura edits right parietal and occipital;;1
+302455658944    ;Nijmegen;include;include_edit_after_edits;rating_accept;rating_edit;rating_edit;;WM edits right temporal;minor WM right temporal;1
+303761129944    ;London_KCL;include;include_edit_after_edits;rating_edit;rating_accept;rating_reject;WM frontal, bilateral temporal and parietal (also cloning) (..bad scan);motion, but acceptable;too much movement;1
+304418982742    ;Mannheim;include;direct_include;rating_accept;rating_accept;rating_accept;;;;1
+304745651938    ;London_KCL;include;include_edit_after_edits;rating_edit;rating_accept;rating_edit;dura, major WM errors throughout (..bad scan);accepted, because not possible to edit, but okay enough to accept;several WM errors, movement;1
+306895678001    ;Rome;include;include_edit_after_edits;rating_edit;rating_edit;rating_edit;dura, WM bilateral temporal;dura edits left and right throughout whole brain;dura, movement;1
+307365682603    ;Cambridge;include;direct_include;rating_accept;rating_accept;rating_accept;;acceptable despite minor dura edits left hemi;minor dura, movement, not editable;1
+307860293305    ;Utrecht_UMCU;include;include_edit_after_edits;rating_edit;rating_accept;rating_edit;dura, major WM right temporal;acceptable despite minor dura edits;dura;1
+308337626668    ;Utrecht_UMCU;include;direct_include;rating_edit;rating_accept;rating_accept;minor WM in left frontal;;;1
+308985002572    ;Utrecht_UMCU;exclude;exclude_special;rating_edit;rating_accept;rating_accept;WM left frontal;acceptable, though several minor WM edits throughout whole brain;;1
+315910414581    ;London_KCL;include;include_edit_after_edits;rating_edit;rating_edit;rating_edit;minor WM left temporal;WM right frontal;WM right frontal, minor dura, movement;1
+317404610400    ;Utrecht_UMCU;include;direct_include;rating_accept;rating_accept;rating_edit;very minor errors, acceptable the way it is;minor dura edits rh parietal;WM right orbito-frontal;1
+317719510819    ;Mannheim;include;include_edit_after_edits;rating_edit;rating_edit;rating_edit;dura, WM right temporal;dura left parietal;dura, left, minor WM right frontal;1
+318221639781    ;Mannheim;include;direct_include;rating_edit;rating_accept;rating_accept;dura, WM frontal (error in visualization of the segmentation);;failed to load aseg.mgz;1
+320580883246    ;Cambridge;include;include_edit_after_edits;rating_edit;rating_edit;rating_accept;WM right frontal and temporal;minor dura right parietal, WM right frontal;minor dura, right hemisphere;1
+320826668581    ;Nijmegen;include;include_edit_after_edits;rating_edit;rating_accept;rating_edit;dura, Wm frontal and bilateral temporal (ringing artifact);ringing artifact (or motion), impossible to edit but temporal lobes good;dura, ringing;1
+321466110510    ;Nijmegen;include;direct_include;rating_edit;rating_accept;rating_accept;minor dura, WM frontal and minor in temporal;minor dura right parietal;;1
+322708064836    ;Rome;include;direct_include;rating_edit;rating_accept;rating_accept;WM bilateral temporal and minor in right frontal;acceptable despite motion;movement;1
+323195490394    ;London_KCL;include;include_edit_after_edits;rating_edit;rating_edit;rating_accept;dura, and WM bilateral temporal and frontal;dura left and right frontal and parietal;minor dura, movement;1
+325027333124    ;Nijmegen;include;direct_include;rating_edit;rating_accept;rating_accept;WM right temporal;minor WM right temporal;;1
+325322132011    ;Rome;include;include_edit_after_edits;rating_edit;rating_accept;rating_edit;WM frontal (bad) and temporal;acceptable despite motion;minor WM right frontal, minor dura, movement;1
+327288335476    ;London_KCL;include;direct_include;rating_accept;rating_accept;rating_edit;extremely minor errors;;WM right frontal and orbitofrontal, minor right dura;1
+327760655614    ;Rome;include;direct_include;rating_accept;rating_edit;rating_accept;very minor errors;dura right parietal/occ;minor dura, movement;1
+328571212222    ;Rome;include;direct_include;rating_edit;rating_accept;rating_accept;dura, very minor WM right temporal;difficult to edit dura due to motion;minor dura, movement;1
+331443624857    ;Nijmegen;exclude;direct_exclude;rating_edit;rating_accept;rating_edit;WM frontal. Note: large cyst in the left parietal lobe;major anatomical abnormality: cyst left parietal lobe, minor WM edit: left parietal around cyst;"WM bilateral frontal, especially right; anatomical abnormality, huge cyst in left hemisphere";1
+332078642120    ;London_KCL;include;include_edit_after_edits;rating_edit;rating_edit;rating_edit;"WM frontal and left temporal; cloning in right parietal";WM right frontal, ringing artifact;WM right frontal, also cloning needed in right frontal lobe, dura;1
+333206458303    ;Utrecht_UMCU;include;include_edit_after_edits;rating_edit;rating_accept;rating_edit;WM orbitofrontal;;WM right frontal;1
+334813354195    ;London_KCL;include;direct_include;rating_edit;rating_accept;rating_accept;minor WM right frontal;;;1
+336598049412    ;London_KCL;include;direct_include;rating_edit;rating_accept;rating_accept;dura, WM right temporal and frontal;;minor WM frontal;1
+336995982925    ;Utrecht_UMCU;include;direct_include;rating_accept;rating_accept;rating_accept;;;;1
+338612745125    ;Nijmegen;exclude;direct_exclude;rating_reject;rating_reject;rating_reject;extremely severe reconstruction errors;motion;too much movement;1
+339104516455    ;Cambridge;include;direct_include;rating_accept;rating_accept;rating_accept;one very minor error in frontal;;;1
+339304620783    ;London_KCL;include;direct_include;rating_accept;rating_accept;rating_accept;one very minor skull stripping error (dura mater);minor dura edit inf frontal;;1
+340836571839    ;London_KCL;exclude;direct_exclude;rating_reject;rating_edit;rating_reject;several major errors throughout the brain due to motion/ringing arrtifact;dura right frontal;severe ringing;1
+342222286650    ;Utrecht_UMCU;include;include_edit_after_edits;rating_edit;rating_edit;rating_reject;WM frontal and temporal. Note: some bad surfaces due to motion/ringing artifact;WM right temporal;severe ringing;1
+345267595552    ;London_KCL;include;include_edit_after_edits;rating_edit;rating_accept;rating_edit;WM occipital, and in frontal (also cloning);minor dura left parietal;WM right frontal;1
+347433880698    ;Utrecht_UMCU;exclude;exclude_special;rating_edit;rating_edit;rating_edit;minor dura and WM;dura right parietal, WM right frontal;WM left frontal and right temporal;1
+353148112942    ;Cambridge;include;include_edit_after_edits;rating_edit;rating_edit;rating_edit;minor WM frontal and temporal;2 minor WM: right frontal and left occipital;WM right frontal and temporal;1
+355258024005    ;London_KCL;include;include_edit_after_edits;rating_edit;rating_edit;rating_edit;dura, minor WM frontal;dura left and right parietal;minor WM right frontal and temporal, dura;1
+355432335910    ;Nijmegen;exclude;exclude_after_edits;rating_edit;rating_edit;rating_edit;WM in frontal and, severely, in left occipital due to anatomical lesion (maybe exclusion);anatomical abnormality: lesion left hemi, but also WM edits right frontal and left temporal;segmentation error in occipital lobe, lesion or enlarged ventricel, WM bilateral frontal, but especially right;1
+358814750714    ;Mannheim;include;direct_include;rating_accept;rating_accept;rating_accept;;;closed it accidently without rating;1
+359009787195    ;Utrecht_UMCU;include;include_edit_after_edits;rating_edit;rating_edit;rating_edit;dura;"minor dura edits: left and right frontal; WM right frontal and right temporal";WM frontal, dura;1
+362657727180    ;London_KCL;include;include_edit_after_edits;rating_edit;rating_accept;rating_edit;WM frontal, right temporal and left occipital;minor WM edits right frontal and temporal;WM frontal and temporal, dura;1
+365711526714    ;London_KCL;exclude;direct_exclude;rating_reject;rating_reject;rating_reject;severe reconstruction errors due to ringing and motion;ringing, too many artifacts, difficult to edit;severe ringing;1
+366217057897    ;London_KCL;include;direct_include;rating_accept;rating_accept;rating_edit;;;WM temporal lobes, minor dura;1
+366889738280    ;Nijmegen;include;include_orig_after_edits;rating_edit;rating_edit;rating_edit;WM left temporal;WM left temporal lobe;WM left temporal and orbitofrontal, minor WM right frontal;1
+367469520033    ;London_KCL;include;include_edit_after_edits;rating_edit;rating_edit;rating_edit;dura, WM left temporal;dura left frontal, WM bilateral temporal lobes;WM bilateral frontal and left temporal, minor dura;1
+368009590945    ;Nijmegen;exclude;direct_exclude;rating_reject;rating_reject;rating_reject;crashed, no segmentation nor surfaces;no aparc & aseg file;only loaded brainmask, didn`t load volumes and segmentation;1
+372295016258    ;Cambridge;include;include_edit_after_edits;rating_edit;rating_edit;rating_edit;WM frontal and left temporal;WM right frontal and left temporal;WM frontal and temporal, movement;1
+373305626861    ;Mannheim;include;direct_include;rating_accept;rating_edit;rating_accept;;dura bilateral inferior frontal, WM right frontal;minor temporal;1
+375546130381    ;Cambridge;include;direct_include;rating_accept;rating_edit;rating_accept;very minor WM errors;minor edits: dura bilateral frontal, WM left frontal;WM minor frontal and minor temporal;1
+376830899810    ;London_KCL;exclude;direct_exclude;rating_reject;rating_reject;rating_reject;very severe errors throughout the brain due to bad scan;too many WM edits (motion);too much movement;1
+377573175891    ;Cambridge;include;include_edit_after_edits;rating_edit;rating_edit;rating_edit;WM frontal;dura bilateral parietal, WM right frontal;WM right frontal, quite strong movement;1
+377617591969    ;London_KCL;include;include_edit_after_edits;rating_edit;rating_edit;rating_edit;dura, WM right temporal and occipital;minor WM frontal, temporal, occipital;WM right temporal, dura;1
+377961354536    ;Nijmegen;include;direct_include;rating_accept;rating_accept;rating_accept;;;;1
+378195533007    ;London_KCL;include;include_edit_after_edits;rating_edit;rating_edit;rating_edit;WM right frontal and temporal;WM lh frontal;WM right frontal and parietal, temporal;1
+378543460381    ;London_KCL;include;include_edit_after_edits;rating_edit;rating_edit;rating_edit;WM frontal, right temporal and left occipital;2 minor WM edits: lh frontal and lh occipital;WM frontal and temporal, minor dura;1
+379104480549    ;London_KCL;include;direct_include;rating_accept;rating_edit;rating_accept;minor dura error;"minor edits: dura left parietal and right frontal; WM left frontal (also minor)";minor dura;1
+379518485485    ;Cambridge;include;include_orig_after_edits;rating_edit;rating_edit;rating_edit;WM frontal and bilateral temporal;WM: temporal lobes (major), frontal (several minor);WM right frontal, temporal, movement;1
+381650671820    ;Nijmegen;include;include_edit_after_edits;rating_edit;rating_accept;rating_edit;WM bilateral temporal;minor dura edits right hemi;WM temporal, minor dura;1
+382296646067    ;Mannheim;include;include_edit_after_edits;rating_edit;rating_edit;rating_edit;dura (Note: segmentation crashed, not visualized);"no aseg file; dura: inferior frontal, left frontal; WM: right frontal";WM right frontal, temporal, minor dura;1
+382485990931    ;Nijmegen;include;include_orig_after_edits;rating_edit;rating_edit;rating_edit;WM bilateral temporal;WM right temporal;WM temporal, ringing;1
+383425423056    ;London_KCL;exclude;direct_exclude;rating_reject;rating_reject;rating_reject;very severe reconstruction errors;too many artifacts;too much movement;1
+384432945539    ;Nijmegen;exclude;direct_exclude;rating_reject;rating_reject;rating_reject;very severe errors due to ringing and motion artifacts;ringing, not possible to edit;very bad ringing artefact;1
+385047510575    ;Nijmegen;include;direct_include;rating_edit;rating_accept;rating_accept;minor WM frontal and right temporal (NOTE: periventricular WM lesions);minor WM left and right frontal;minor WM frontal;1
+386004477445    ;Nijmegen;include;direct_include;rating_accept;rating_edit;rating_accept;;dura bilateral frontal;minor dura;1
+387103247866    ;London_KCL;include;include_edit_after_edits;rating_edit;rating_accept;rating_edit;WM right frontal;minor WM frontal;WM bilateral frontal;1
+388343881755    ;Cambridge;include;include_edit_after_edits;rating_edit;rating_accept;rating_edit;minor dura, WM frontal;;WM frontal;1
+388422329713    ;Rome;include;include_edit_after_edits;rating_edit;rating_reject;rating_reject;dura, WM frontal and bilateral temporal;ringing, very difficult to edit;too much movement or ringing, several severe artefacts because of it;1
+388735390040    ;Nijmegen;include;include_edit_after_edits;rating_accept;rating_edit;rating_edit;acceptable, minor dura mater errors;dura left an right parietal;dura;1
+389123441230    ;London_KCL;include;include_edit_after_edits;rating_edit;rating_accept;rating_reject;WM frontal, right temporal and occipital (bad scan);usable, difficult to edit;too much movement or ringing;1
+389202687565    ;Mannheim;include;include_edit_after_edits;rating_edit;rating_edit;rating_accept;WM frontal and left temporal;WM right temporal;movement artefacts;1
+391549922275    ;Rome;include;include_edit_after_edits;rating_edit;rating_accept;rating_edit;WM bilateral temporal;;WM right frontal, temporal;1
+391792121294    ;Rome;include;include_edit_after_edits;rating_edit;rating_edit;rating_edit;dura mater;dura right frontal, WM right temporal;minor WM right frontal, dura, ringing;1
+393231033047    ;Mannheim;exclude;exclude_special;rating_edit;rating_accept;rating_accept;minor dura and WM error in the right frontal lobe;minor dura left parietal;;1
+395527716461    ;London_KCL;exclude;direct_exclude;rating_reject;rating_reject;rating_reject;extremely severe reconstruction errors due to motion artifacts;severe artifacts;too much movement;1
+396115729600    ;Rome;include;include_orig_after_edits;rating_edit;rating_edit;rating_edit;dura, WM lef frontal;dura left and right frontal and parietal;WM temporal, especially left, minor dura, movement;1
+396868518028    ;Rome;include;include_edit_after_edits;rating_edit;rating_edit;rating_edit;very minor dura, WM bilateral temporal;dura: left and right parietal, WM left and right temporal;WM right temporal, minor right frontal, ringing;1
+405399264404    ;Nijmegen;include;include_edit_after_edits;rating_edit;rating_edit;rating_edit;very minor dura, WM bilateral temporal;dura left and right parietal, WM temporal lobes;WM temporal and minor right frontal, quite bad ringing or movement, maybe even exclude it;1
+405435900354    ;Utrecht_UMCU;include;include_edit_after_edits;rating_edit;rating_accept;rating_edit;dura mater;minor dura edits everywhere;dura;1
+406025860813    ;Utrecht_UMCU;exclude;exclude_special;rating_accept;rating_edit;rating_accept;;WM right temporal lobe;minor WM left temporal;1
+406361373838    ;Cambridge;include;include_edit_after_edits;rating_edit;rating_edit;rating_accept;WM frontal and left temporal;minor: bilateral temporal lobes;minor WM left temporal;1
+408451488786    ;Rome;include;include_edit_after_edits;rating_accept;rating_edit;rating_edit;extremely minor dura mater errors;dura right frontal, WM right temporal;WM temporal, minor dura, movement;1
+411132124107    ;Nijmegen;exclude;direct_exclude;rating_reject;rating_reject;rating_reject;extremely severe reconstruction due to scan disturbances;heavy ringing;too much movement or ringing;1
+411822073393    ;Utrecht_UMCU;include;direct_include;rating_accept;rating_accept;rating_accept;;;minor WM right frontal;1
+412921193734    ;Rome;include;include_edit_after_edits;rating_edit;rating_edit;rating_edit;dura mater;dura bilateral fronto-parietal, WM bilateral temporal;Wm minor right frontal and temporal, minor dura, quite bad movement, maybe even exclude it;1
+413056331722    ;London_KCL;include;include_orig_after_edits;rating_edit;rating_edit;rating_edit;WM frontal, bilateral temporal, parietal and occipital;dura fronto-parietal, WM frontal;WM frontal, temporal and parietal, movement artefacts;1
+413732647306    ;Nijmegen;include;include_edit_after_edits;rating_edit;rating_edit;rating_edit;WM frontal and bilateral temporal;Wm left and right frontal;WM frontal and temporal, ringing;1
+414689264154    ;London_KCL;include;include_orig_after_edits;rating_edit;rating_accept;rating_edit;WM frontal;;WM right frontal and minor right temporal, tiny bits of dura, movement;1
+418598548438    ;London_KCL;include;include_edit_after_edits;rating_edit;rating_accept;rating_edit;dura;;minor WM frontal and temporal, minor dura, movement;1
+419673248476    ;Utrecht_UMCU;include;direct_include;rating_accept;rating_accept;rating_edit;;;minor WM right frontal and left temporal;1
+420380436494    ;London_KCL;include;include_edit_after_edits;rating_accept;rating_edit;rating_edit;;dura minor left and right fronto-parietal, WM minor bilateral temporal;WM right frontal, dura;1
+420448554158    ;Nijmegen;include;direct_include;rating_accept;rating_edit;rating_accept;;WM right temporal;minor dura;1
+422982644366    ;Mannheim;include;direct_include;rating_accept;rating_accept;rating_accept;;maybe WM right temporal?;;1
+426078737578    ;Cambridge;include;direct_include;rating_accept;rating_accept;rating_accept;;;minor WM right frontal;1
+426515024860    ;Nijmegen;include;include_edit_after_edits;rating_accept;rating_edit;rating_edit;acceptable, very minor errors (ddura, left temporal);dura right parietal and left frontal;WM left temporal, minor dura;1
+428229074166    ;Mannheim;include;direct_include;rating_accept;rating_accept;rating_edit;;;dura, tiny bit WM right frontal missing;1
+429337713500    ;Utrecht_UMCU;include;direct_include;rating_accept;rating_accept;rating_accept;one minor error in frontal WM;;;1
+429385763020    ;London_KCL;include;include_edit_after_edits;rating_edit;rating_edit;rating_edit;WM frontal, right temporal and occipital;try frontal and temporal WM edits, or exclude;WM frontal, temporal, parietal, maybe dura, ringing;1
+429779641484    ;Cambridge;include;include_orig_after_edits;rating_edit;rating_accept;rating_edit;WM frontal and left temporal;not sure if temporal and frontal WM edits can be performed;WM frontal, temporal, tiny bit dura;1
+431356813004    ;Nijmegen;include;direct_include;rating_edit;rating_accept;rating_accept;dura mater (minor);minor dura edits left frontal;minor dura;1
+432268037768    ;London_KCL;include;include_edit_after_edits;rating_edit;rating_edit;rating_edit;WM frontal, bilateral temporal and parietal;WM bilateral temporal lobes;WM frontal and temporal;1
+432402725756    ;Nijmegen;include;direct_include;rating_accept;rating_accept;rating_accept;;;tiny bit WM right temporal;1
+433036344712    ;Nijmegen;include;direct_include;rating_accept;rating_accept;rating_accept;acceptable, very minor dura and orbiotofrontal errors;minor dura edits left frontal;tiny bit dura;1
+433167841299    ;Nijmegen;include;direct_include;rating_edit;rating_accept;rating_accept;dura mater;minor dura edits left frontal, occipial;minor dura;1
+433919720012    ;London_KCL;include;include_orig_after_edits;rating_edit;rating_edit;rating_edit;dura mater, WM left temporal lobe;dura left parietal, WM left temporal;WM right frontal, minor temporal, dura;1
+434761922410    ;London_KCL;include;include_edit_after_edits;rating_edit;rating_edit;rating_edit;dura mater, WM left frontal and (minor) bilateral temporal;WM bilateral temporal;WM right frontal, minor temporal, dura;1
+435982182950    ;London_KCL;include;direct_include;rating_edit;rating_accept;rating_accept;minor errors in right frontal and temporal (also acceptable);;;1
+436491381614    ;Cambridge;include;direct_include;rating_edit;rating_accept;rating_accept;WM frontal;;minor WM right frontal;1
+437304668226    ;Utrecht_UMCU;include;include_edit_after_edits;rating_edit;rating_edit;rating_edit;WM left frontal and temporal;WM left temporal;WM frontal and temporal;1
+441035330946    ;London_KCL;include;direct_include;rating_edit;rating_accept;rating_accept;minor dura mater;minor dura edits;minor dura;1
+441124095287    ;Nijmegen;include;include_edit_after_edits;rating_edit;rating_edit;rating_edit;WM frontal;WM minor frontal;WM frontal, minor dura;1
+444358027398    ;Mannheim;include;direct_include;rating_accept;rating_accept;rating_accept;very minor error in frontal;;;1
+445106475225    ;London_KCL;exclude;direct_exclude;rating_reject;rating_reject;rating_reject;severe reconstruction errors due to anatomical abnormality (extremely dilated ventricles);anatomical abnormalities;anatomical abnormalities, enlarged ventricels, segmentation errors;1
+445512164596    ;Nijmegen;include;direct_include;rating_edit;rating_accept;rating_accept;WM frontal and left temporal;;minor WM right frontal;1
+445780332688    ;London_KCL;include;direct_include;rating_edit;rating_accept;rating_accept;WM left frontal (and very minor dura);minor WM edits frontal and right parietal;minor WM right frontal;1
+446120344225    ;London_KCL;include;direct_include;rating_edit;rating_accept;rating_accept;minor errors in WM in frontal, and dura mater in rightt  occipital;;;1
+446221388468    ;Utrecht_UMCU;include;direct_include;rating_accept;rating_accept;rating_accept;;minor WM right parietal and right frontal;;1
+449830790175    ;Nijmegen;include;include_edit_after_edits;rating_edit;rating_accept;rating_edit;minor WM in the right temporal (also acceptable);;WM temporal, especially right;1
+450462317156    ;Mannheim;include;include_edit_after_edits;rating_edit;rating_edit;rating_accept;WM frontal and right parietal;WM right fronto-parietal;minor WM right frontal;1
+453555274646    ;Nijmegen;exclude;direct_exclude;rating_reject;rating_reject;rating_reject;very severe reconstructio errors due to motion, bad scan;impossible to edit;too much movement or ringing;1
+454273424775    ;Mannheim;exclude;direct_exclude;rating_reject;rating_reject;rating_reject;no segmnentation nor surfaces visualised (crashed);no aseg and no aparc file;only loaded brainmask, did not load volumes and segmentation;1
+454592127953    ;London_KCL;include;direct_include;rating_accept;rating_accept;rating_accept;one very minor dura mater error;;minor WM right frontal;1
+455281732924    ;Utrecht_UMCU;include;include_edit_after_edits;rating_edit;rating_edit;rating_reject;dura, WM right temporal and frontal;WM left and right temporal lobes, and motion affecting frontal regions;too much movement;1
+456984361966    ;Nijmegen;include;direct_include;rating_accept;rating_accept;rating_accept;;;;1
+458470349372    ;London_KCL;include;include_orig_after_edits;rating_edit;rating_accept;rating_edit;minor WM frontal and left temporal;;WM temporal, minor right frontal;1
+458831062503    ;London_KCL;include;direct_include;rating_accept;rating_accept;rating_accept;;;;1
+458858673178    ;Nijmegen;include;include_edit_after_edits;rating_edit;rating_edit;rating_edit;minor WM left temporal (also acceptable);WM right temporal, and a little bit of dura here and there;minor WM left temporal, tiny bit of dura, movement;1
+460374103136    ;Nijmegen;include;direct_include;rating_accept;rating_accept;rating_accept;;;;1
+461756116874    ;Nijmegen;include;include_edit_after_edits;rating_edit;rating_edit;rating_accept;WM frontal and bilateral temporal;WM left and right temporal;minor WM right frontal and left temporal;1
+462839741911    ;London_KCL;exclude;direct_exclude;rating_reject;rating_reject;rating_reject;crashed, no visualization of segmentation nor surfaces;no aparc and no aseg files;only loaded brainmask, could not load volumes and segmentation;1
+462911954430    ;Mannheim;include;direct_include;rating_edit;rating_accept;rating_accept;WM frontal;;minor WM right frontal;1
+463616087199    ;Mannheim;include;include_edit_after_edits;rating_edit;rating_edit;rating_accept;dura, minor WM frontal and left temporal;dura left fronto-parietal;tiny bit of dura;1
+468030954687    ;London_KCL;include;include_orig_after_edits;rating_edit;rating_accept;rating_edit;WM frontal;;WM right frontal, tiny bit of dura;1
+468580210800    ;London_KCL;include;direct_include;rating_accept;rating_accept;rating_accept;;minor WM left temporal;;1
+468615955074    ;Nijmegen;include;direct_include;rating_accept;rating_accept;rating_accept;acceptable, very minor errors;minor dura edits left frontal;tiny bit of dura;1
+468991529680    ;London_KCL;include;direct_include;rating_accept;rating_accept;rating_accept;;;;1
+469607877557    ;Utrecht_UMCU;include;direct_include;rating_accept;rating_accept;rating_accept;;minor WM edits right frontal & right fronto-parietal;;1
+472209750058    ;London_KCL;include;direct_include;rating_accept;rating_accept;rating_accept;;;minor WM left frontal;1
+472708716550    ;Nijmegen;include;direct_include;rating_accept;rating_accept;rating_accept;;;;1
+472796270748    ;London_KCL;include;include_edit_after_edits;rating_edit;rating_edit;rating_reject;WM frontal bilateral temporal and occipital (bad scan);"try to edit WM left and right temporal; if not possible exclude";too much movement or ringing;1
+475093171413    ;London_KCL;exclude;direct_exclude;rating_reject;rating_reject;rating_reject;severe errors due to motion/scan artifact;too many WM edits;very bad ringing;1
+476936933818    ;Nijmegen;include;include_edit_after_edits;rating_edit;rating_reject;rating_edit;WM frontal bilateral temporal, parietal and occipital (bad scan, possible exclusion);too many WM edits;WM temporal, minor frontal and parietal, dura, movement, maybeee even exclude;1
+477688074519    ;Mannheim;include;include_edit_after_edits;rating_edit;rating_edit;rating_edit;dura mater, WM left temporal;dura mostly left frontal and parietal;WM temporal, especially left, dura, movement;1
+477854191987    ;Nijmegen;include;include_orig_after_edits;rating_edit;rating_edit;rating_edit;WM frontal bilateral temporal parietal and occipital (bad scan, consider exclusion);WM left and right temporal lobes, parietal, frontal;several WM artefacts, e.g. frontal and temporal, movement, maybe even exclude it;1
+478958967391    ;Nijmegen;include;direct_include;rating_accept;rating_accept;rating_accept;;;;1
+483862517771    ;Utrecht_UMCU;include;direct_include;rating_accept;rating_accept;rating_accept;;;;1
+484678533147    ;Mannheim;include;direct_include;rating_accept;rating_accept;rating_accept;one minor error in right frontal WM;;;1
+487722864717    ;Nijmegen;include;include_edit_after_edits;rating_edit;rating_edit;rating_accept;dura mater;dura left fronto-parietal;minor dura;1
+488892266345    ;Utrecht_UMCU;include;direct_include;rating_accept;rating_accept;rating_accept;;;;1
+490846599536    ;Nijmegen;include;direct_include;rating_edit;rating_accept;rating_accept;minor dura mater;minor WM edit left parietal, minor dura;minor dura;1
+491908520267    ;Nijmegen;include;direct_include;rating_edit;rating_accept;rating_accept;dura mater;;minor dura;1
+491998749681    ;Cambridge;include;direct_include;rating_edit;rating_accept;rating_accept;minor WM frontal;not great, but wouldn't know how to edit it;movement;1
+494344414167    ;Rome;include;include_edit_after_edits;rating_edit;rating_edit;rating_accept;Wm right temporal. Note: segmentation crashed (not visualized);no aseg file, but parcellation looks okay;couldn`t load segmentation aseg.mgz, movement;1
+494968791332    ;London_KCL;include;include_edit_after_edits;rating_edit;rating_edit;rating_edit;dura, WM frontal, bilateral temporal and occipital (bad scan);dura left and right parietal, WM left and right temporal;WM right frontal and temporal, especially left, dura;1
+495779827165    ;Rome;include;include_edit_after_edits;rating_edit;rating_edit;rating_edit;dura mater, bilateral temporal;WM right parietal, left frontal;dura, WM temporal, ringing;1
+495977626661    ;Mannheim;include;direct_include;rating_edit;rating_accept;rating_accept;minor WM frontal;;;1
+498184660603    ;Utrecht_UMCU;include;direct_include;rating_accept;rating_accept;rating_accept;;;;1
+499590008561    ;Nijmegen;include;include_edit_after_edits;rating_edit;rating_edit;rating_accept;dura mater;dura right frontal;minor dura, movement;1
+500489711016    ;London_KCL;include;direct_include;rating_edit;rating_accept;rating_accept;minor dura;;minor dura, movement;1
+501458566432    ;Nijmegen;exclude;direct_exclude;rating_reject;rating_accept;rating_reject;many errors due to severe motion/ringing artifacts;ringing artifact, but temporal lobes look okay;too much movement or ringing;1
+501626394309    ;Utrecht_UMCU;include;direct_include;rating_accept;rating_accept;rating_accept;very minor dura mater errors;;minor dura;1
+502417524301    ;London_KCL;include;include_edit_after_edits;rating_edit;rating_edit;rating_edit;minor dura mater, and WM in temporal;WM left and right temporal lobes;WM temporal, minor WM right frontal, dura;1
+502611823201    ;Nijmegen;include;include_edit_after_edits;rating_edit;rating_edit;rating_edit;dura mater;dura right frntal;dura, movement;1
+503004924812    ;Nijmegen;include;include_edit_after_edits;rating_edit;rating_edit;rating_edit;minor Wm frontal, and bilateral temporal;WM right and left temporal;WM temporal, minor dura;1
+505116043261    ;London_KCL;include;include_edit_after_edits;rating_edit;rating_accept;rating_edit;WM frontal (and maybe occipital);minor WM edit left parietal;WM right frontal, temporal;1
+505336529906    ;Nijmegen;include;include_edit_after_edits;rating_edit;rating_edit;rating_accept;minor dura mater;WM left and right temporal, minor dura edits left frontal;minor dura;1
+505506013383    ;Rome;include;include_edit_after_edits;rating_edit;rating_edit;rating_edit;dura mater, WM left temporal;dura left frontoparietal;WM left temporal, dura;1
+506005238620    ;Cambridge;include;include_edit_after_edits;rating_edit;rating_edit;rating_reject;WM frontal and bilateral temporal;WM bilateral frontal and temporal;too much movement;1
+507005869518    ;London_KCL;exclude;exclude_after_edits;rating_edit;rating_edit;rating_edit;severe segmentation errors due to anatomical lesion in the right occipital horn, not sure it is fixable ..;anatomical abnormality: try to edit WM right temporal lobe, if not possible exclude;WM frontal, especially left, temporal, parietal right (p, partly segmentation missing;1
+507616263818    ;Utrecht_UMCU;include;include_edit_after_edits;rating_edit;rating_accept;rating_edit;minor WM in right temporal;;WM frontal and temporal;1
+508346521563    ;Nijmegen;include;direct_include;rating_accept;rating_accept;rating_accept;;;minor WM temporal, movement artefacts;1
+509985289516    ;London_KCL;include;include_edit_after_edits;rating_edit;rating_accept;rating_edit;WM left temporal;minor edits left temporal pole;WM temporal, especially left, movement;1
+510454102181    ;London_KCL;include;include_edit_after_edits;rating_edit;rating_edit;rating_edit;dura mater, WM frontal and temporal;dura right fronto-parietal, WM left and right temporal;WM frontal and minor temporal, quite much movement, maybe even exclude;1
+510966986457    ;Mannheim;include;direct_include;rating_accept;rating_edit;rating_accept;one minor error in the frontal WM;WM left frontal and left temporal lobe;movement;1
+511140892831    ;Cambridge;include;direct_include;rating_accept;rating_accept;rating_accept;;;;1
+511141963906    ;Utrecht_UMCU;include;direct_include;rating_accept;rating_accept;rating_accept;acceptable, minor errors in dura mater;minor dura error right fronto-parietal;minor WM temporal left, movement;1
+511270340855    ;Mannheim;include;include_edit_after_edits;rating_edit;rating_edit;rating_edit;dura mater;major dura edits frontal and parietal;WM left temporal, minor dura, but probably hard to delete because of movement artefacts;1
+511856618487    ;London_KCL;include;include_edit_after_edits;rating_edit;rating_edit;rating_edit;dura mater;dura left frontal, WM left temporal;WM temporal, dura, but probably hard to delete because of movement;1
+513065156097    ;Nijmegen;include;direct_include;rating_accept;rating_accept;rating_accept;;minor dura edits but acceptable;;1
+513286772808    ;Mannheim;include;include_edit_after_edits;rating_edit;rating_accept;rating_edit;dura mater, WM frontal;minor dura edits left frontal;WM frontal and temporal, dura, but probably hard to delete  because of movement;1
+514649804940    ;London_KCL;include;direct_include;rating_accept;rating_accept;rating_accept;only one minor error in parietal dura mater;minor dura edits;minor WM frontal, dura;1
+516084790842    ;Nijmegen;include;direct_include;rating_accept;rating_accept;rating_accept;;;movement;1
+517172152315    ;Nijmegen;include;include_edit_after_edits;rating_edit;rating_accept;rating_edit;WM frontal and right temporal;;WM frontal and temporal, minor dura, but probably hard to delete because of movement;1
+517449688083    ;Utrecht_UMCU;include;include_edit_after_edits;rating_edit;rating_edit;rating_edit;WM bilateral temporal (especially left) and frontal;WM left and right temporal;WM frontal and temporal;1
+521341248046    ;Nijmegen;include;direct_include;rating_accept;rating_accept;rating_accept;;;minor WM frontal;1
+523002776648    ;London_KCL;include;include_edit_after_edits;rating_edit;rating_edit;rating_edit;WM frontal and bilateral (especially right) temporal;WM right temporal;WM frontal and temporal, especially right;1
+523946184842    ;Nijmegen;include;include_edit_after_edits;rating_edit;rating_accept;rating_edit;WM frontal and bilateral temporal;;WM frontal and temporal;1
+525150339506    ;Utrecht_UMCU;include;include_edit_after_edits;rating_edit;rating_accept;rating_edit;WM frontal;minor dura edits frontal-parietal;WM temporal, minor dura;1
+529165042070    ;Mannheim;exclude;direct_exclude;rating_reject;rating_reject;rating_reject;too many severe errors due to motion;ringing, all parts of brain badly segmented;too much movement or ringing;1
+529633790775    ;London_KCL;include;include_edit_after_edits;rating_edit;rating_accept;rating_edit;WM frontal pole;minor WM edits frontal;WM frontal and temporal;1
+530329509553    ;London_KCL;include;direct_include;rating_accept;rating_accept;rating_accept;;;minor dura, but probably difficult to delete because of movement;1
+530426937681    ;London_KCL;exclude;direct_exclude;rating_edit;rating_edit;rating_edit;many WM errors due to bad quality of the scscan (possible exclusion at the end);dura marked as white matter on right fronto-parietal lobe;WM artefacts in several regions, e.g. frontal and temporal,  quite much movement, maybe even delete it;1
+530931968480    ;London_KCL;include;include_edit_after_edits;rating_edit;rating_accept;rating_edit;two minor errors in dura mater and WM frontal;minor WM edits temporal, but acceptable;WM minor frontal and right temporal, tiny bit of dura on thee right hemisphere;1
+531126743336    ;Mannheim;include;include_edit_after_edits;rating_edit;rating_edit;rating_accept;dura mater right occipital, WM frontal;dura edit right occipital;minor WM frontal, movement;1
+532177189086    ;Cambridge;include;include_orig_after_edits;rating_edit;rating_edit;rating_edit;WM frontal, bilateral temporal and occipital;WM left and right temporal;WM temporal, but quite much movement, maybe even exclude it;1
+535674267646    ;Nijmegen;include;direct_include;rating_accept;rating_accept;rating_accept;;minor WM temporal;;1
+538947876752    ;Nijmegen;include;direct_include;rating_edit;rating_accept;rating_accept;dura mater;;minor WM temporal, minor dura, but probably difficult to delete because of movement;1
+538954407458    ;Cambridge;include;include_edit_after_edits;rating_edit;rating_accept;rating_edit;WM frontal and temporal;minor dura, but acceptable;WM left temporal, minor dura;1
+539182080335    ;Cambridge;include;include_edit_after_edits;rating_edit;rating_accept;rating_edit;dura mater, minor WM frontal;;WM temporal, dura;1
+541548272051    ;Nijmegen;include;include_edit_after_edits;rating_edit;rating_accept;rating_edit;dura mater, minor WM frontal;minor dura edits;WM frontal and temporal, dura, movement;1
+541625141216    ;Nijmegen;include;direct_include;rating_accept;rating_accept;rating_accept;acceptable, only minor dura mater error;;minor dura;1
+543584526796    ;Nijmegen;include;direct_include;rating_accept;rating_accept;rating_accept;acceptable, only minor dura mater errors;;minor dura, movement;1
+544359778864    ;Cambridge;include;include_edit_after_edits;rating_edit;rating_accept;rating_edit;dura mater, minor WM frontal;minor dura edits, but acceptable;minor WM temporal, minor dura;1
+544491007190    ;Nijmegen;include;direct_include;rating_accept;rating_accept;rating_accept;acceptable, one minor WM left temporal;minor dura edits, but acceptable;minor WM temporal, movement;1
+546960446466    ;Utrecht_UMCU;exclude;direct_exclude;rating_edit;rating_edit;rating_reject;several dura and WM errors due to the bad quality of the scan (consider exclusion);"dura edits, WM left and right temporal lobe; personally, I would exclude it, because parts of brain are missing";too much movement;1
+552396778923    ;London_KCL;exclude;direct_exclude;rating_reject;rating_reject;rating_edit;several major errors due to ringing/motion, not possible to fix;too many bad regions;WM frontal and temporal, quite much movement, maybe even exclude it;1
+556631722602    ;Nijmegen;include;direct_include;rating_accept;rating_accept;rating_accept;;;;1
+557615482345    ;London_KCL;include;include_edit_after_edits;rating_edit;rating_accept;rating_edit;several WM errors in frontal temporal occipital;minor WM edits frontal lobe;WM frontal and temporal, minor dura, movement;1
+559902456395    ;Nijmegen;include;include_edit_after_edits;rating_edit;rating_edit;rating_edit;WM frontal;WM left temporal;minor WM right frontal, temporal, minor dura, movement;1
+560385322960    ;London_KCL;include;include_edit_after_edits;rating_edit;rating_edit;rating_edit;WM left temporal;WM left and right temporal;WM minor frontal, temporal, especially left, tiny bits of dura;1
+560987227569    ;London_KCL;include;direct_include;rating_accept;rating_accept;rating_accept;;minor WM edit right;minor WM frontal, movement;1
+562732004399    ;Cambridge;include;include_orig_after_edits;rating_edit;rating_edit;rating_accept;WM frontal;WM edit right frontal (minor, but easy to fix);minor WM frontal;1
+567050483866    ;Nijmegen;include;direct_include;rating_edit;rating_accept;rating_accept;WM frontal and bilateral temporal;;minor WM frontal, movement;1
+567135708905    ;Mannheim;include;direct_include;rating_edit;rating_accept;rating_accept;WM frontal and left temporal;minor WM left temporal;minor WM frontal;1
+567578893300    ;Cambridge;include;direct_include;rating_accept;rating_accept;rating_accept;;several tiny WM edits frontal and parietal, but I think acceptable;;1
+567841670723    ;London_KCL;exclude;direct_exclude;rating_reject;rating_edit;rating_reject;several WM reconstruction errors due to the bad quality of the scan;WM both temporal lobes, WM left parietal;too much movement;1
+568975953542    ;Nijmegen;include;direct_include;rating_accept;rating_accept;rating_accept;;;minor WM right temporal, movement;1
+570524772487    ;London_KCL;include;direct_include;rating_accept;rating_accept;rating_accept;;;;1
+570702955030    ;London_KCL;include;include_edit_after_edits;rating_edit;rating_accept;rating_edit;minor dura mater and WM frontal;minor dura edits fronto-parietal;minor WM frontal and temporal;1
+570954148543    ;London_KCL;include;include_edit_after_edits;rating_edit;rating_edit;rating_edit;WM frontal (minor), and right tempooral;WM right temporal lobe and minor WM left temporal;WM temporal, especially right;1
+573074876911    ;Utrecht_UMCU;include;direct_include;rating_edit;rating_accept;rating_accept;dura mater;;minor dura;1
+576455591997    ;Nijmegen;include;include_edit_after_edits;rating_edit;rating_edit;rating_edit;dura mater, WM frontal;dura left fronto-parietal;minor WM frontal and minor WM temporal, minor dura;1
+577694186905    ;Nijmegen;include;include_edit_after_edits;rating_edit;rating_edit;rating_edit;dura mater;dura left and right frontal and parietal;dura, tiny bits of WM frontal and temporal;1
+578561818687    ;Cambridge;include;include_edit_after_edits;rating_edit;rating_accept;rating_edit;WM frontal and bilateral temporal;minor left and right temporal WM;minor WM frontal and temporal;1
+580428127991    ;Nijmegen;include;include_edit_after_edits;rating_edit;rating_accept;rating_edit;dura mater, WM right temporal;motion (ringing?), but acceptable;WM temporal, minor dura, but might be difficult to delete because of movement;1
+580649557859    ;Rome;include;include_edit_after_edits;rating_edit;rating_accept;rating_edit;minor dura mater (also acceptable);;minor WM temporal, minor dura;1
+581075264123    ;Mannheim;include;direct_include;rating_accept;rating_accept;rating_accept;;;;1
+581934377616    ;London_KCL;include;direct_include;rating_accept;rating_accept;rating_accept;acceptable, very minor errors in rfrontal and occipital WM;;minor WM temporal;1
+582048510514    ;Rome;include;include_edit_after_edits;rating_edit;rating_edit;rating_edit;WM frontal and left temporal;WM left temporal lobe;WM temporal and minor left frontal;1
+582348688781    ;Mannheim;include;direct_include;rating_accept;rating_edit;rating_accept;only minor WM frontal;WM right frontal lobe, small but easy to fix;minor WM right frontal;1
+582509594026    ;London_KCL;include;include_edit_after_edits;rating_edit;rating_accept;rating_edit;WM frontal and bilateral temporal;don't know if manual edits are possible, but too okay to exclude;WM frontal and temporal, movement;1
+583339263116    ;Nijmegen;include;direct_include;rating_accept;rating_accept;rating_accept;;;;1
+584224364936    ;Nijmegen;include;direct_include;rating_accept;rating_accept;rating_accept;;;movement;1
+587657536159    ;London_KCL;include;direct_include;rating_edit;rating_accept;rating_accept;dura mater;minor dura edits right frontal;minor dura, movement;1
+588547704494    ;London_KCL;include;direct_include;rating_accept;rating_accept;rating_accept;minor WM left temmporal;;minor WM temporal;1
+590707495613    ;London_KCL;include;direct_include;rating_accept;rating_accept;rating_accept;;;;1
+591612765160    ;London_KCL;include;direct_include;rating_accept;rating_accept;rating_accept;;;;1
+592413773463    ;Utrecht_UMCU;include;direct_include;rating_accept;rating_accept;rating_accept;;;;1
+593435745241    ;Utrecht_UMCU;include;direct_include;rating_accept;rating_accept;rating_accept;;;minor WM temporal;1
+594128872723    ;Nijmegen;include;direct_include;rating_accept;rating_accept;rating_accept;;minor WM left and right frontal;minor WM frontal;1
+599197502428    ;Utrecht_UMCU;exclude;direct_exclude;rating_reject;rating_edit;rating_reject;too severe errors due to motion be fixed;WM left temporal, dura left and right frontal;too much movement;1
+600269564046    ;Cambridge;include;include_orig_after_edits;rating_edit;rating_edit;rating_edit;WM bilateral temporal;WM left temporal (minor), something that looks like dura mater appears between gyri left parietal (cor slice 118 and 106);WM temporal, minor frontal, minor dura;1
+601613922076    ;Utrecht_UMCU;include;direct_include;rating_accept;rating_accept;rating_accept;acceptable, one dura mater error in occipital;;minor dura;1
+602177989471    ;Nijmegen;include;direct_include;rating_accept;rating_edit;rating_accept;;WM left temporal;minor dura, movement;1
+602495883891    ;Utrecht_UMCU;include;direct_include;rating_accept;rating_accept;rating_accept;;;;1
+603979994833    ;Mannheim;include;include_edit_after_edits;rating_edit;rating_edit;rating_edit;dura mate, WM frontal and left temporal;WM left temporal;WM temporal, quite much movement;1
+605316136288    ;London_KCL;include;include_edit_after_edits;rating_edit;rating_accept;rating_edit;WM right frontal and (minor) left temporal;minor WM left temporal;WM right frontal, minor temporal;1
+607485356482    ;Nijmegen;include;include_edit_after_edits;rating_edit;rating_accept;rating_edit;minor dura and WM frontal (also acceptable);ringing frontal, but looks acceptable;minor right frontal, minor temporal, minor dura;1
+607680425439    ;Utrecht_UMCU;include;direct_include;rating_accept;rating_accept;rating_accept;;;minor WM temporal;1
+607877406727    ;Cambridge;include;direct_include;rating_accept;rating_accept;rating_accept;;minor dura parietal;;1
+609966867439    ;Nijmegen;include;direct_include;rating_accept;rating_accept;rating_accept;;;;1
+610073047327    ;Utrecht_UMCU;include;direct_include;rating_accept;rating_accept;rating_accept;;;;1
+610444396645    ;Nijmegen;include;direct_include;rating_edit;rating_accept;rating_accept;WM frontal (minor), and bilaterall temporal;minor dura edits left parietal;minor WM temporal, very minor dura;1
+611237764697    ;London_KCL;include;include_edit_after_edits;rating_accept;rating_edit;rating_edit;Note: segmentation crashed (not visualized), but surfaces alright.;"no aseg file, but surface reconstr. looks okay; dura: right parietal";WM temporal, failed to load segmentation aseg.mgz;1
+611482122018    ;London_KCL;include;direct_include;rating_edit;rating_accept;rating_accept;WM in frontal, minor in temporal, cloning in right parietal, and WM in occipital;;;1
+612663434239    ;Mannheim;include;include_edit_after_edits;rating_edit;rating_accept;rating_edit;dura, WM in frontal;;WM right frontal and left temporal;1
+613621265343    ;Cambridge;include;direct_include;rating_edit;rating_accept;rating_accept;dura, WM in frontal;;minor dura;1
+614505055273    ;London_KCL;include;include_edit_after_edits;rating_edit;rating_edit;rating_accept;dura, WM bilateral temporal;WM left and right temporal, minor WM left occipital;minor dura;1
+614898267473    ;London_KCL;include;direct_include;rating_accept;rating_accept;rating_edit;only one very minor dura mater error in occipital;minor WM left temporal;minor WM right frontal and left temporal;1
+614910550100    ;Mannheim;include;include_edit_after_edits;rating_edit;rating_edit;rating_accept;minor dura mater (very good brain, also acceptable);dura left parietal;minor dura;1
+616502860312    ;Utrecht_UMCU;include;direct_include;rating_accept;rating_accept;rating_accept;acceptable, very minor error in frontal WM and dura;;;1
+617711901244    ;London_KCL;include;direct_include;rating_accept;rating_accept;rating_accept;acceptable, one minor error in WM right frontal;;;1
+618085331302    ;Cambridge;include;include_edit_after_edits;rating_edit;rating_accept;rating_edit;dura (minor), WM right temporal;;minor WM temporal, minor dura;1
+620421203248    ;Cambridge;include;direct_include;rating_accept;rating_edit;rating_accept;acceptable, minor error in WM frontal;WM right frontal;minor WM left temporal;1
+622837550309    ;Nijmegen;include;direct_include;rating_accept;rating_accept;rating_accept;;;;1
+623938317452    ;Nijmegen;include;include_edit_after_edits;rating_edit;rating_edit;rating_accept;dura mater, WM right frontal (minor);dura left fronto-parietal;minor dura;1
+623965895133    ;Nijmegen;include;include_edit_after_edits;rating_edit;rating_edit;rating_accept;WM frontal and bilateral temporal;WM right frontal, WM left temporal;very minor right frontal and temporal, movement;1
+628118917744    ;Mannheim;include;direct_include;rating_edit;rating_accept;rating_accept;minor errors in WM frontal;;;1
+629096132061    ;Nijmegen;include;include_edit_after_edits;rating_edit;rating_edit;rating_edit;minor dura, WM frontal and bilateral temporal;"dura left fronto-parietal; WM right frontal";WM temporal, especially left, dura;1
+630147348337    ;Nijmegen;include;include_edit_after_edits;rating_edit;rating_edit;rating_edit;dura mater, WM in frontal (minor) and major in bilatreral temporal;WM right and left temporal;WM temporal, minor right frontal, movement;1
+631415270075    ;London_KCL;include;include_edit_after_edits;rating_edit;rating_edit;rating_reject;dura mater, severl WM errors in frontal, bilatrela temmporal and occipital (bad scan);try to edit WM left+right frontal, WM left+right temporal (maybe exclude);too much movement;1
+632587163208    ;London_KCL;include;include_edit_after_edits;rating_edit;rating_edit;rating_edit;WM right frontal and temporal;minor edits: WM right frontal, WM right temporal;minor WM right frontal and temporal;1
+634529090328    ;London_KCL;include;direct_include;rating_edit;rating_accept;rating_accept;minor dura mater and WM;;very minor left frontal and temporal;1
+634792258018    ;Nijmegen;include;direct_include;rating_accept;rating_accept;rating_accept;;;;1
+637425042204    ;Cambridge;exclude;exclude_special;rating_accept;rating_accept;rating_accept;very good, only one minor error in WM left temporal;;minor WM left temporal;1
+638494573736    ;Utrecht_UMCU;include;direct_include;rating_accept;rating_accept;rating_accept;;;movement;1
+639069170186    ;Utrecht_UMCU;include;include_edit_after_edits;rating_edit;rating_edit;rating_edit;WM frontal and bilateral temporal;WM right and left temporal;WM temporal;1
+639747247787    ;Nijmegen;exclude;direct_exclude;rating_reject;rating_reject;rating_reject;too many major errors throughout the barain due to the bad quality of the scan;cannot be edited;too much movement;1
+640149993945    ;Nijmegen;include;direct_include;rating_accept;rating_accept;rating_accept;;minor WM temporal edits;minor WM right frontal;1
+641775560377    ;Cambridge;exclude;exclude_special;rating_edit;rating_accept;rating_accept;WM frontal and bilateral temporal;minor WM frontal edits;minor WM left temporal;1
+642257746040    ;Nijmegen;include;direct_include;rating_accept;rating_accept;rating_accept;;;;1
+642984348418    ;Cambridge;include;direct_include;rating_edit;rating_accept;rating_accept;WM frontal;;very minor WM right frontal and temporal, but quite much movement;1
+643270138807    ;Cambridge;include;include_edit_after_edits;rating_edit;rating_accept;rating_edit;dura mater, WM frontal and right temporal;minor dura edits left frontal;WM right temporal, quite much movement;1
+644050954441    ;Rome;include;direct_include;rating_edit;rating_accept;rating_accept;minor dura mater in occipital, and very minor in WM temporal;;minor WM temporal;1
+645597444396    ;Cambridge;exclude;direct_exclude;rating_reject;rating_edit;rating_reject;very severe errors due to the bad quality of the scan;try to edit WM temporal lobes (maybe exclude);too much movement;1
+646013149986    ;Nijmegen;include;direct_include;rating_accept;rating_accept;rating_accept;;;minor WM right temporal, movement;1
+646251362798    ;London_KCL;include;include_edit_after_edits;rating_edit;rating_edit;rating_edit;WM frontal and minor and minor bilateral temporal;dura: left fronto-parietal, WM: left and right frontal (minor), left temporal;minor WM right frontal and left temporal;1
+647052125664    ;Nijmegen;include;direct_include;rating_accept;rating_accept;rating_accept;;;;1
+647902472227    ;Nijmegen;include;direct_include;rating_accept;rating_accept;rating_accept;;;;1
+648242963723    ;Cambridge;include;direct_include;rating_accept;rating_accept;rating_accept;very minor dura mater error;;minor dura;1
+649033908533    ;Cambridge;include;direct_include;rating_accept;rating_accept;rating_accept;very minor errors in frontal WM;;minor dura;1
+649197039178    ;Cambridge;exclude;direct_exclude;rating_reject;rating_edit;rating_reject;too severe errors due to ringing/motion;try to edit WM left temporal, maybe exclude;too much movement;1
+649700204468    ;Utrecht_UMCU;include;direct_include;rating_accept;rating_accept;rating_accept;;;;1
+651491039045    ;London_KCL;include;direct_include;rating_accept;rating_accept;rating_accept;;;;1
+651670408869    ;Nijmegen;include;include_edit_after_edits;rating_edit;rating_edit;rating_edit;dura mater, WM frontal and bilateral temporal;dura left fronto-parietal, WM left and right temporal;WM temporal, minor left frontal, dura;1
+652403397256    ;London_KCL;exclude;direct_exclude;rating_reject;rating_edit;rating_reject;several severe reconstruction errors due to motion/ringing;try to edit WM left and right temporal lobe (or exclude);too much movement;1
+653262752197    ;London_KCL;include;include_edit_after_edits;rating_edit;rating_accept;rating_edit;error in WM right frontal (quite minor, so also acceptable);;WM minor right frontal and left temporal;1
+654120587069    ;London_KCL;include;include_edit_after_edits;rating_edit;rating_edit;rating_edit;dura mater;dura: left and right fronto-parietal, WM: left temporal (minor);dura, WM temporal;1
+656265432190    ;Nijmegen;include;direct_include;rating_accept;rating_accept;rating_accept;;;minor WM temporal;1
+656616484637    ;London_KCL;include;include_edit_after_edits;rating_edit;rating_edit;rating_edit;WM in right frontal, right temporal, and cloning in right paietal;WM left and right frontal;WM frontal, minor right temporal;1
+656813092207    ;Mannheim;include;direct_include;rating_accept;rating_accept;rating_accept;very minor error in WM frontal;;movement;1
+657896689200    ;Cambridge;include;direct_include;rating_accept;rating_accept;rating_accept;acceptable, minor error in WM frontal;;minor dura;1
+658407271274    ;London_KCL;include;include_orig_after_edits;rating_edit;rating_edit;rating_edit;WM frontal, bilateral temporal and left occipital;WM edits left and right frontal, temporal, occipital;WM frontal, temporal, occipital (especially right);1
+665620090147    ;Cambridge;include;include_edit_after_edits;rating_edit;rating_edit;rating_accept;dura mater;dura left fronto-parietal;;1
+670787147591    ;London_KCL;include;include_edit_after_edits;rating_edit;rating_edit;rating_edit;WM right frontal and temporal;WM right temporal;WM frontal and temporal, minor dura;1
+671130860025    ;Nijmegen;include;direct_include;rating_accept;rating_accept;rating_accept;;;;1
+671678197201    ;Cambridge;include;include_edit_after_edits;rating_edit;rating_edit;rating_edit;WM frontal and left temporal;try to edit WM left temporal (or exclude);WM frontal, temporal (especially) left, tiny bits of dura;1
+671747498321    ;London_KCL;include;include_edit_after_edits;rating_edit;rating_edit;rating_edit;minor WM frontal and dura mater;dura left frontal;minor WM frontal and temporal, minor dura;1
+672911578565    ;London_KCL;include;include_edit_after_edits;rating_accept;rating_edit;rating_edit;;WM: right temporal, left and right frontal (minor);minor WM frontal and temporal;1
+673926892942    ;Cambridge;include;direct_include;rating_accept;rating_accept;rating_accept;;;minor WM frontal;1
+675064758420    ;Nijmegen;include;include_edit_after_edits;rating_edit;rating_accept;rating_edit;WM in frontal and bilateral temporal;try to edit temporal lobes if possible;WM right frontal and bilateral temporal;1
+676853354784    ;London_KCL;include;include_edit_after_edits;rating_edit;rating_edit;rating_edit;dura mater, WM in frontal, left temporal and right parietal due to motion;WM left temporal lobe (if possible, otherwise exclude);WM right frontal, temporal, minor right occipital and parietal, dura, quite much movement;1
+678779993249    ;Mannheim;include;direct_include;rating_accept;rating_accept;rating_accept;;;minor dura;1
+681975486857    ;London_KCL;include;include_edit_after_edits;rating_edit;rating_accept;rating_edit;WM bilateral temporal;;WM temporal, especially left, minor parietal;1
+681998875857    ;Rome;include;include_edit_after_edits;rating_edit;rating_edit;rating_edit;minor dura mater and WM bilateral temporal;dura: right parietal (minor), WM left and right temporal;minor WM frontal, dura, movement;1
+682151444267    ;Nijmegen;include;include_edit_after_edits;rating_edit;rating_edit;rating_edit;dura mater, WM left temporal;dura left and right parietal, WM left temporal;WM minor frontal, temporal, minor dura, movement;1
+684230267993    ;London_KCL;include;direct_include;rating_accept;rating_accept;rating_edit;one dura mater error;minor WM temporal;minor right frontal and temporal;1
+686832758751    ;London_KCL;include;direct_include;rating_edit;rating_accept;rating_accept;minor error in WM right frontal;;minor WM right frontal;1
+686924389939    ;Cambridge;include;include_edit_after_edits;rating_edit;rating_accept;rating_edit;WM frontal;;WM frontal, minor temporal and parietal;1
+689261665273    ;Nijmegen;include;include_edit_after_edits;rating_edit;rating_edit;rating_edit;Wm left temporal, and very minor dura;WM left temporal lobe;WM left temporal;1
+690625710786    ;Nijmegen;include;direct_include;rating_accept;rating_accept;rating_accept;;;;1
+693121373127    ;London_KCL;include;include_edit_after_edits;rating_edit;rating_accept;rating_edit;dura mater, WM right frontal and (minor) left temporal;minor dura edits occipital and parietal;dura, minor WM right frontal;1
+696531007913    ;Utrecht_UMCU;include;include_edit_after_edits;rating_edit;rating_edit;rating_edit;dura mater, WM frontal and left temporal;ringing artifacts, but maybe usable after WM edits on left and right temporal lobes;WM frontal, left temporal, minor dura, quite much movement, maybe even exclude it;1
+696700648122    ;Nijmegen;include;direct_include;rating_accept;rating_accept;rating_accept;probably cyst / CSF dilation in the posterior fossa (small cerebellum);ringing (or motion), diifuclt to edit but okay enough to include;movement;1
+697229528974    ;Cambridge;include;include_edit_after_edits;rating_edit;rating_edit;rating_edit;WM bilateral temporal (especially left) and minor in frontal;motion, but maybe usable after WM edit on left temporal lobe;WM temporal, especially left, minor right frontal, dura, movement;1
+698589982809    ;London_KCL;include;direct_include;rating_edit;rating_accept;rating_accept;minor WM error in the right frontal lobe;;minor WM right frontal;1
+700148775290    ;Nijmegen;include;include_edit_after_edits;rating_edit;rating_edit;rating_edit;dura mater, WM bilateral temporal (especialy left);dura left frontal/parietal (minor), WM left tempral;WM temporal, especially left, dura;1
+701626976547    ;London_KCL;exclude;direct_exclude;rating_reject;rating_reject;rating_reject;several severe errors throughout the brain due to the bad quality of the scan;too many WM edits needed, and very diffiult to perform edits;too much movement;1
+701950985712    ;London_KCL;include;direct_include;rating_accept;rating_accept;rating_accept;;;minor WM temporal;1
+702091185251    ;Mannheim;include;direct_include;rating_accept;rating_accept;rating_accept;;;;1
+702352941548    ;Nijmegen;include;include_edit_after_edits;rating_edit;rating_edit;rating_edit;minor dura mater: WM and cloning in the right temporal lobe;dura left fronto-parietal, minor WM left temporal;WM temporal, dura;1
+702382144710    ;Cambridge;include;include_edit_after_edits;rating_edit;rating_accept;rating_edit;"dura mater; WM right frontal and left temporal and parietal";motion, not sure if this can be edited, but would not reject it, therefore accepted;WM frontal and temporal, quite much movement, maybe even exclude it;1
+703211913409    ;Mannheim;include;direct_include;rating_accept;rating_accept;rating_accept;acceptable: minor error in WM frontal and dura;;minor WM right frontal;1
+703255666588    ;London_KCL;include;direct_include;rating_accept;rating_accept;rating_accept;;;minor WM frontal;1
+704298963127    ;Utrecht_UMCU;include;include_edit_after_edits;rating_edit;rating_accept;rating_edit;dura mater and very minor WM left temporal;;WM temporal, especially right, minor frontal and left parietal, minor dura;1
+704924865398    ;London_KCL;include;direct_include;rating_accept;rating_accept;rating_accept;;;minor dura, tiny bits of WM temporal;1
+704955240966    ;Utrecht_UMCU;include;include_edit_after_edits;rating_edit;rating_edit;rating_edit;WM frontal and left occipital;WM left and right temporal lobes;WM frontal, temporal, parietal;1
+705651941071    ;London_KCL;include;direct_include;rating_edit;rating_accept;rating_accept;dura mater;;minor WM right frontal, movement;1
+707755147111    ;Rome;include;direct_include;rating_edit;rating_accept;rating_accept;WM right frontal and bilateral temporal;ringing, but looks okay enough to accept;minor WM right frontal and temporal, movement;1
+710441522016    ;London_KCL;exclude;direct_exclude;rating_reject;rating_edit;rating_reject;several errors due to motion artifacts;try to edit WM temporal lobes, if impossible exclude;too much movement;1
+712984812365    ;Cambridge;include;include_edit_after_edits;rating_edit;rating_accept;rating_edit;WM frontal and left temporal;motion, but acceptable;WM left temporal, minor right frontal, movement;1
+713526364981    ;Nijmegen;include;include_edit_after_edits;rating_edit;rating_edit;rating_edit;WM left temporal. Note: large dilation of lateral ventricles and (probably) of the cisterna magna (small cerebellum), with incorrect segmentation of the WM (surfaces are correct).;"anatomical abnormality large ventricles; WM edit left temporal lobe";WM temporal, especially left, anatomical abnormality, enlarged  ventricels, segementation errors in the ventricels, parts of it have false been segmented as white matter, so white matter volumes are compromised;1
+713675032670    ;Utrecht_UMCU;include;direct_include;rating_accept;rating_accept;rating_accept;;;;1
+713933341814    ;Utrecht_UMCU;include;direct_include;rating_accept;rating_accept;rating_edit;one minor error in WM left temporal;;WM temporal, especially left;1
+714993068392    ;Utrecht_UMCU;include;include_edit_after_edits;rating_edit;rating_edit;rating_edit;WM left temporal, and minor dura mater;WM left temporal;WM temporal, especially left, minor right frontal, minor dura;1
+715170653504    ;Cambridge;include;direct_include;rating_accept;rating_accept;rating_accept;acceptable, one minor error in WM left temporal;minor WM left temporal;minor WM temporal;1
+716041863832    ;Cambridge;include;direct_include;rating_edit;rating_accept;rating_accept;WM frontal and bilateral temporal;minor WM edits left temporal;minor WM left temporal;1
+716396020667    ;Utrecht_UMCU;include;direct_include;rating_edit;rating_accept;rating_accept;dura mater, WM frontal;minor dura edits left frontoparietal, but acceptable;minor left temporal, tiny bits of dura, movement;1
+716588902839    ;Rome;include;include_orig_after_edits;rating_accept;rating_edit;rating_edit;some motion artifacts but not fixable errors;motion, try to edit right temporal lobe (WM);WM temporal, especially right, quite much movement, maybe evenen exclude it;1
+717695813411    ;Rome;include;include_edit_after_edits;rating_edit;rating_edit;rating_edit;minor WM left temporal (also acceptable);motion, but still okay, edit WM left and right temporal lobes;minor WM right frontal and temporal, quite much movement;1
+718283607938    ;London_KCL;include;include_edit_after_edits;rating_edit;rating_edit;rating_edit;WM in frontal, bilateral temporal and occipital (bad scan);motion, WM edits frontal, temporal, occipital;WM frontal, temporal, parietal, quite much movement, maybe even exclude it;1
+723172669817    ;Cambridge;include;direct_include;rating_edit;rating_accept;rating_accept;minor WM frontal and tempotral (also acceptable);;minor WM frontal and temporal;1
+729400520308    ;Utrecht_UMCU;include;include_edit_after_edits;rating_edit;rating_edit;rating_edit;dura mater;several minor dura edits right frontal, left frontoparietal, left occipital;dura;1
+730275532700    ;Cambridge;include;direct_include;rating_accept;rating_accept;rating_accept;;minor WM edits right temporal;minor dura, movement;1
+730708437918    ;London_KCL;include;direct_include;rating_edit;rating_accept;rating_accept;incorrect surfaces in the right parietal;minor dura right parietal;;1
+733724982161    ;Cambridge;include;direct_include;rating_accept;rating_accept;rating_accept;;;;1
+734264787430    ;Nijmegen;include;include_edit_after_edits;rating_edit;rating_accept;rating_edit;dura mater;;WM temporal, minor dura;1
+740825039200    ;Utrecht_UMCU;include;direct_include;rating_edit;rating_accept;rating_accept;minor WM left frontal;;minor WM left frontal;1
+741155580632    ;Nijmegen;exclude;direct_exclude;rating_edit;rating_accept;rating_reject;extensive WM errors in frontal and temporal dueto the bad quality of the scan, but we could try ...;motion, but can be included;too much movement;1
+745090080912    ;Nijmegen;include;direct_include;rating_edit;rating_accept;rating_accept;dura mater, WM bilateral temporal;minor dura edits right frontal, left fronto-parietal;minor WM temporal;1
+745252660422    ;Mannheim;include;direct_include;rating_accept;rating_accept;rating_accept;;;;1
+745295300976    ;Utrecht_UMCU;include;direct_include;rating_accept;rating_accept;rating_accept;;;;1
+748485159342    ;London_KCL;include;direct_include;rating_accept;rating_accept;rating_accept;;;minor WM right frontal, tiny bits of dura;1
+749456093133    ;London_KCL;include;include_edit_after_edits;rating_edit;rating_edit;rating_edit;minor WM frontal and occipital;dura left frontal;WM frontal, minor temporal;1
+749925290668    ;Cambridge;include;direct_include;rating_accept;rating_accept;rating_accept;acceptable, minor WM error in frontal pole;;;1
+750237143755    ;Cambridge;include;include_edit_after_edits;rating_edit;rating_edit;rating_accept;dura mater, WM left temporal;minor WM left and right temporal, minor dura left frontal;minor WM temporal, tiny bits of dura, movement;1
+752965114156    ;Nijmegen;include;include_edit_after_edits;rating_edit;rating_edit;rating_edit;dura mater;dura left fronto-parietal;dura, quite much movement;1
+755212054837    ;Nijmegen;include;include_edit_after_edits;rating_edit;rating_accept;rating_edit;dura mater, WM left temporal;minor dura edits left frontoparietal;WM temporal, dura;1
+755866583506    ;Nijmegen;include;direct_include;rating_edit;rating_accept;rating_accept;WM left temporal (and minor right temporal and frontal);;;1
+761647460630    ;London_KCL;include;direct_include;rating_accept;rating_accept;rating_accept;one minor dura mater error;;minor dura;1
+762238547096    ;London_KCL;include;include_edit_after_edits;rating_edit;rating_edit;rating_edit;dura mater;dura edits left and right frontal;dura;1
+762580096326    ;Mannheim;include;direct_include;rating_edit;rating_accept;rating_accept;minor dura mater and WM frontal (also acceptable);minor dura left frontoparietal;minor dura;1
+762689081855    ;Cambridge;include;include_edit_after_edits;rating_edit;rating_accept;rating_edit;WM frontal (bad scan);;WM frontal, movement;1
+763284160851    ;London_KCL;include;include_orig_after_edits;rating_edit;rating_accept;rating_edit;minor dura mater and WM frontal (also acceptable);;WM frontal, minor left occipital;1
+765108666426    ;London_KCL;include;include_edit_after_edits;rating_edit;rating_accept;rating_edit;minor dura mater and WM frontal;;WM frontal, especially left, occipital, dura;1
+765375701704    ;Cambridge;include;direct_include;rating_accept;rating_accept;rating_accept;;;minor WM right temporal;1
+766752101951    ;Mannheim;exclude;direct_exclude;rating_edit;rating_accept;rating_reject;major dura mater, and WM frontal and bilatrela temporal due to motio (also exclusion);ringing, cannot be edited (consider excluion);too much movement or ringing;1
+767491931913    ;Nijmegen;include;include_edit_after_edits;rating_edit;rating_edit;rating_accept;minor WM bilateral temporal and frontal;minor WM frontal, minor WM left temporal;minor WM temporal;1
+767704605391    ;Mannheim;exclude;direct_exclude;rating_edit;rating_edit;rating_edit;major errors in WM frontal, left temporal and occiptal due to motion/bad scan (possible exclusion);try WM temporal lobes and consider exclusion;WM in all lobes, quite much movement, maybe even exclude it;1
+771068276221    ;London_KCL;exclude;exclude_special;rating_edit;rating_edit;rating_edit;WM frontal, right temporal and left occipital;WM right frontal and left temporal;WM frontal, minor temporal;1
+772929362868    ;London_KCL;include;direct_include;rating_accept;rating_accept;rating_accept;;;;1
+773995512885    ;London_KCL;include;direct_include;rating_edit;rating_accept;rating_accept;dura mater, WM in bilateral temporal;minor WM left temporal;minor WM temporal, minor dura;1
+778284577230    ;London_KCL;include;direct_include;rating_edit;rating_accept;rating_accept;Wm frontal and left temporal;minor dura edits left frontal parietal;minor WM left temporal;1
+780626155930    ;Nijmegen;exclude;direct_exclude;rating_edit;rating_reject;rating_reject;dura mater, major errors in WM frontal, temporal and occiptital due to motion/bad quality of the scan (possible exclusion already);ringing, too many WM edits needed;too much ringing;1
+781168464860    ;London_KCL;include;direct_include;rating_accept;rating_accept;rating_accept;;minor WM edits temporal lobe;;1
+781251114802    ;Utrecht_UMCU;include;direct_include;rating_accept;rating_accept;rating_accept;minor errors in dura mater;;minor dura;1
+782827516534    ;Mannheim;include;include_edit_after_edits;rating_edit;rating_accept;rating_edit;minor errors in dura mater;;dura, WM temporal;1
+783216376588    ;Nijmegen;include;include_edit_after_edits;rating_edit;rating_accept;rating_edit;WM right frontal and bilateral temporal;minor WM edits left and right temporal lobes;WM right frontal, temporal;1
+786319186444    ;Utrecht_UMCU;include;direct_include;rating_accept;rating_accept;rating_accept;minor error in dura mater;minor dura edit left parietal lobe;minor dura;1
+787450371980    ;London_KCL;include;direct_include;rating_accept;rating_accept;rating_accept;;;minor WM temporal;1
+791166201177    ;Mannheim;include;include_edit_after_edits;rating_edit;rating_edit;rating_edit;minor dura mater;dura left and right frontal and parietal (several minor edits);dura;1
+794341742183    ;Rome;include;include_edit_after_edits;rating_edit;rating_edit;rating_edit;WM bilateral temporal;WM right temporal;WM temporal;1
+795177685647    ;Utrecht_UMCU;include;direct_include;rating_accept;rating_accept;rating_accept;;;;1
+795292602017    ;Cambridge;include;direct_include;rating_accept;rating_accept;rating_accept;;;;1
+795624960885    ;London_KCL;include;direct_include;rating_accept;rating_accept;rating_accept;;;;1
+795681016332    ;London_KCL;include;include_edit_after_edits;rating_edit;rating_edit;rating_edit;WM frontal and left temporal;WM left temporal lobe (right temporal minor WM edits);WM right frontal, minor left temporal, maybe remove dura;1
+804084059971    ;Nijmegen;include;direct_include;rating_accept;rating_accept;rating_accept;;;minor WM temporal;1
+805911600984    ;Nijmegen;include;direct_include;rating_edit;rating_accept;rating_accept;dura mater, minor WM left temporal;minor WM edits left and right temporal;minor WM temporal, movement;1
+808844437982    ;London_KCL;include;include_edit_after_edits;rating_edit;rating_edit;rating_edit;dura mater;minor WM edits left and right temporal poles;WM left frontal, dura;1
+809014550718    ;Utrecht_UMCU;include;direct_include;rating_accept;rating_edit;rating_accept;very minor dura mater error;dura left parietal;minor dura;1
+810072092902    ;London_KCL;include;include_edit_after_edits;rating_edit;rating_edit;rating_edit;WM frontal and occipital;WM left and right frontal;WM frontal and parietal;1
+811366047947    ;Nijmegen;include;direct_include;rating_accept;rating_accept;rating_accept;;minor WM edit left temporal;;1
+812807172065    ;Nijmegen;include;direct_include;rating_accept;rating_accept;rating_edit;;;minor WM right frontal, minor dura;1
+814229018914    ;Rome;include;include_edit_after_edits;rating_edit;rating_edit;rating_accept;dura mater, WM bilateral temporal;"minor dura right parietal; minor WM left temporal";minor WM temporal, tiny bits of dura, movement;1
+815057220914    ;Nijmegen;include;direct_include;rating_accept;rating_accept;rating_accept;;;;1
+816806068146    ;Nijmegen;include;include_edit_after_edits;rating_edit;rating_edit;rating_edit;dura mater, WM bilateral temporal;"dura frontal and parietal; WM left temporal";WM frontal and temporal, dura, movement;1
+821176327260    ;London_KCL;include;include_edit_after_edits;rating_edit;rating_edit;rating_edit;dura mater, WM frontal;"dura left parietal, frontal; WM left and right frontal";minor WM frontal, dura, movement;1
+822693246646    ;Utrecht_UMCU;include;direct_include;rating_accept;rating_accept;rating_accept;one minor error in dura mater;;;1
+823483329496    ;London_KCL;include;include_edit_after_edits;rating_edit;rating_accept;rating_edit;dura mater and cloning error in right parietal;;WM left frontal, maybe delete dura;1
+826631202330    ;London_KCL;include;direct_include;rating_accept;rating_accept;rating_accept;acceptable, minor error in WM left temporal and dura;;;1
+826746991440    ;London_KCL;include;direct_include;rating_edit;rating_accept;rating_accept;WM frontal and left temporal;;minor frontal and temporal;1
+826817331038    ;Nijmegen;include;direct_include;rating_accept;rating_accept;rating_accept;;;minor WM temporal, tiny bits of dura, movement;1
+828133697447    ;Nijmegen;include;direct_include;rating_edit;rating_accept;rating_accept;minor WM right frontal;;minor WM frontal;1
+829426540874    ;London_KCL;include;direct_include;rating_edit;rating_accept;rating_accept;minor WM right frontal and temporal (also acceptable);minor WM right temporal lobe;minor WM right frontal;1
+830041143266    ;Nijmegen;include;direct_include;rating_accept;rating_accept;rating_accept;;;;1
+831052109090    ;London_KCL;include;include_edit_after_edits;rating_edit;rating_edit;rating_edit;dura mater, WM left temporal and right parietal;WM left temporal lobe, minor WM right temporal lobe;minor WM right frontal, temporal, minor dura;1
+832569428144    ;Cambridge;include;include_edit_after_edits;rating_edit;rating_edit;rating_edit;WM frontal and bilateral temporal due to bad scan;"motion, try to edit WM left and right temporal lobe; WM frontal if possible; rest looks okay";WM frontal and temporal, one tiny bit of dura, movement;1
+832808896247    ;Mannheim;include;direct_include;rating_edit;rating_accept;rating_accept;WM frontal;;minor WM temporal, movement;1
+832926430837    ;Nijmegen;include;direct_include;rating_accept;rating_accept;rating_accept;;;;1
+836808459341    ;Nijmegen;include;include_edit_after_edits;rating_edit;rating_edit;rating_edit;WM frontal and left temporal;WM left temporal;WM frontal and temporal (especially left);1
+837417191027    ;London_KCL;include;include_edit_after_edits;rating_edit;rating_accept;rating_edit;WM right frontal and temporal;minor WM right frontal;WM right frontal, occipital and parietal;1
+837561254746    ;Utrecht_UMCU;include;direct_include;rating_accept;rating_accept;rating_accept;;;;1
+839017892923    ;Utrecht_UMCU;include;direct_include;rating_accept;rating_accept;rating_accept;;;minor WM frontal;1
+839824620776    ;Nijmegen;include;include_edit_after_edits;rating_edit;rating_accept;rating_edit;minor WM bilateral temporal poles (also acceptable);;minor WM right frontal and left temporal, tiny bits of dura;1
+839932161550    ;Utrecht_UMCU;include;direct_include;rating_accept;rating_accept;rating_accept;;;;1
+841333814207    ;Mannheim;exclude;direct_exclude;rating_reject;rating_reject;rating_reject;very severe errors due to severe motion artifacts;impossible to edit;too much movement or ringing;1
+841820491031    ;Utrecht_UMCU;include;direct_include;rating_accept;rating_accept;rating_accept;;minor: dura left and right inferior frontal;;1
+841958655769    ;London_KCL;include;include_edit_after_edits;rating_edit;rating_accept;rating_edit;WM left temoporal and minor right temporal and parietal;minor WM left temporal (but easy to fix);minor WM right frontal, temporal, minor dura, movement;1
+842711675738    ;London_KCL;exclude;exclude_after_edits;rating_edit;rating_edit;rating_edit;WM frontal, bilateral tempoal and parieto-occipital due to bad scan (motion);try to edit MW left and right temporal (consider exclusion);WM frontal, temporal, occipital, but quite much movement, maybe even exclude it;1
+843192037159    ;Rome;include;include_edit_after_edits;rating_edit;rating_edit;rating_edit;WM frontal and bilateral temporal;WM left and right temporal;WM temporal, minor dura;1
+843304999299    ;London_KCL;include;direct_include;rating_accept;rating_accept;rating_accept;;;minor WM left temporal;1
+844092957113    ;Nijmegen;include;include_edit_after_edits;rating_edit;rating_edit;rating_edit;one error in WM right temporal;WM right temporal;WM right temporal;1
+846396767856    ;Cambridge;include;include_edit_after_edits;rating_edit;rating_edit;rating_edit;dura mater, minor errors in WM temporals and frontal;"dura left and right frontal/parietal; WM right frontal, left temporal";dura, minor WM frontal and temporal, quite much movement;1
+847130083258    ;London_KCL;exclude;direct_exclude;rating_reject;rating_reject;rating_reject;very severe errors due to severe motion artifacts;ringing, impossible to edit;too much movement or ringing;1
+850432151391    ;London_KCL;exclude;direct_exclude;rating_reject;rating_reject;rating_reject;severe errors due to severe anatomical/scanner artifacts;anatomical or acquisition artifact right hemisphere;anatomical abnormality, massive part of right hemisphere missing, due to lesion or scanner artefact, also too much movement;1
+851468609152    ;London_KCL;include;direct_include;rating_accept;rating_accept;rating_accept;;;minor dura;1
+851870964066    ;London_KCL;include;direct_include;rating_accept;rating_accept;rating_accept;;;minor WM right frontal;1
+852305045433    ;London_KCL;include;include_edit_after_edits;rating_edit;rating_accept;rating_edit;WM frontal and parieto-occipital;;WM frontal;1
+852911509359    ;London_KCL;include;direct_include;rating_accept;rating_accept;rating_accept;;;;1
+853454785382    ;Cambridge;include;include_edit_after_edits;rating_edit;rating_edit;rating_edit;WM frontal, minor dura mater;"minor dura edits left and right frontoparietal; minor WM right temporal";minor WM right frontal and temporal, minor dura, but might  be difficult to delete because of movement, maybe even accept as is;1
+854062438464    ;London_KCL;include;include_edit_after_edits;rating_edit;rating_edit;rating_edit;WM right frontal and temporal;WM left and right temporal;WM right frontal and occipital, left temporal, bilateral parietal;1
+854378527154    ;Nijmegen;include;direct_include;rating_accept;rating_accept;rating_accept;;;;1
+854861459174    ;Cambridge;include;direct_include;rating_accept;rating_accept;rating_accept;;;;1
+854980334349    ;London_KCL;include;direct_include;rating_accept;rating_accept;rating_accept;;;;1
+855494225893    ;Rome;include;direct_include;rating_edit;rating_accept;rating_accept;minor WM bilatreal temporal;minor WM edits left and right temporal;minor WM left temporal, tiny bit of dura, movement;1
+855548932908    ;London_KCL;include;direct_include;rating_edit;rating_accept;rating_accept;dura mater;;minor dura, probably difficult to delete because of movement, very minor WM left temporal;1
+860914119337    ;Cambridge;include;direct_include;rating_accept;rating_accept;rating_accept;one minor error in WM frontal;minor WM right frontal;minor WM right frontal;1
+862103265427    ;Utrecht_UMCU;exclude;exclude_special;rating_edit;rating_accept;rating_edit;dura mater and minor WM frontal;minor dura edits right frontal lobe;dura;1
+867116024936    ;London_KCL;include;direct_include;rating_edit;rating_accept;rating_accept;WM right temporal;;;1
+867989723800    ;Mannheim;include;direct_include;rating_accept;rating_accept;rating_accept;very minor errors in WM frontal;;;1
+869163187754    ;Utrecht_UMCU;include;direct_include;rating_accept;rating_accept;rating_accept;very minor errors in dura mater;;minor dura;1
+869535528494    ;London_KCL;include;direct_include;rating_edit;rating_accept;rating_accept;dura mater;;minor dura;1
+869635923320    ;Nijmegen;include;direct_include;rating_edit;rating_accept;rating_accept;minor dura mater, WM frontal and bilateral temporal;;minor WM temporal, quite much movement;1
+869741967061    ;Nijmegen;include;include_edit_after_edits;rating_edit;rating_accept;rating_edit;minor dura mater;minor dura right frontoparietal;minor WM right frontal and temporal, minor dura;1
+870124836397    ;Nijmegen;include;direct_include;rating_accept;rating_accept;rating_accept;very minor errors in dura mater;;minor WM frontal;1
+870798458027    ;Nijmegen;include;direct_include;rating_accept;rating_accept;rating_accept;acceptable, minor errors in WM bilateral temporal;minor WM edits left and right temporal lobe;minor WM temporal;1
+870857776103    ;Nijmegen;include;direct_include;rating_accept;rating_accept;rating_accept;;;;1
+871560567483    ;Cambridge;include;include_edit_after_edits;rating_edit;rating_edit;rating_accept;dura mater;dura edits right frontoparietal;minor dura;1
+871716846350    ;Cambridge;include;include_edit_after_edits;rating_edit;rating_edit;rating_edit;dura mater, WM frontal and right temporal;motion, edit dura right frontoparietal;dura, quite much movement, maybe even exclude it;1
+871752256167    ;London_KCL;include;include_orig_after_edits;rating_edit;rating_edit;rating_accept;minor errors in WM frontal, parietal and occipital;WM left and right temporal lobes;;1
+872210259236    ;London_KCL;include;include_edit_after_edits;rating_edit;rating_accept;rating_edit;WM frontal and right temporal;minor dura left parietal;WM left frontal, right temporal;1
+872865125489    ;London_KCL;include;include_edit_after_edits;rating_edit;rating_edit;rating_edit;WM right parietal, and left temporal and occipital;several minor WM edits: left and right parietal (around coronal slice 107) and left temporal lobe;WM left temporal, right parietal;1
+877595825879    ;Rome;include;direct_include;rating_edit;rating_accept;rating_accept;dura mater, WM bilateral temporal;minor dura edits right frontal;minor dura, tiny bit WM left temporal;1
+879046647066    ;London_KCL;include;direct_include;rating_edit;rating_accept;rating_accept;dura mater, minor WM left temporal;minor dura edits but acceptable;minor dura;1
+879699932406    ;Nijmegen;include;direct_include;rating_accept;rating_accept;rating_accept;;;;1
+880387463235    ;Nijmegen;include;direct_include;rating_accept;rating_accept;rating_accept;;;;1
+881324181111    ;Utrecht_UMCU;include;include_edit_after_edits;rating_edit;rating_accept;rating_edit;minor WM frontal;minor WM edit right frontal;WM right frontal, tiny bit of dura;1
+881493409213    ;Nijmegen;include;direct_include;rating_edit;rating_accept;rating_accept;minor dura mater and WM right temporal;minor dura edits left frontoparietal;minor dura, very minor WM temporal;1
+881645213328    ;London_KCL;include;include_edit_after_edits;rating_edit;rating_edit;rating_accept;dura mater, WM frotal;dura right occipital (minor? consider accepting as is);minor WM frontal;1
+882596425885    ;London_KCL;include;include_edit_after_edits;rating_edit;rating_edit;rating_edit;dura mater;"minor dura: left frontal; WM: right temporal";minor WM temporal, minor dura;1
+884046589633    ;Nijmegen;include;include_edit_after_edits;rating_edit;rating_edit;rating_edit;WM bilateral temporal;motion, edit WM left temporal;WM left temporal, movement;1
+886847536213    ;London_KCL;include;direct_include;rating_accept;rating_accept;rating_edit;very minor errors in WM frontal;minor dura edits;minor WM left frontal and right temporal;1
+887011311901    ;Mannheim;include;direct_include;rating_edit;rating_accept;rating_accept;minor dura mater and WM frontal;"minor dura left parietal, minor WM right temporal; still acceptable";minor dura;1
+888488339255    ;Utrecht_UMCU;include;direct_include;rating_accept;rating_accept;rating_accept;;;;1
+891141962737    ;Nijmegen;include;direct_include;rating_accept;rating_accept;rating_accept;;;;1
+892722174756    ;London_KCL;include;include_edit_after_edits;rating_edit;rating_edit;rating_accept;minor dura mater and WM left temporal;motion, try to edit WM left and right temporal, if impossible include as is;minor WM temporal, movement;1
+893122266564    ;Cambridge;include;direct_include;rating_accept;rating_accept;rating_accept;;;;1
+893208421469    ;Mannheim;include;direct_include;rating_accept;rating_accept;rating_accept;one minor error in WM left temporal;;minor WM left frontal;1
+896169420400    ;Utrecht_UMCU;include;direct_include;rating_accept;rating_accept;rating_accept;acceptable, minor errors in WM frontal;;quite much movement, maybe even exclude it;1
+896963234020    ;Nijmegen;include;direct_include;rating_edit;rating_accept;rating_accept;WM left temporal;;;1
+897248836608    ;Cambridge;exclude;exclude_special;rating_edit;rating_edit;rating_edit;WM bilateral temporal (Note: signal artifact);motion, try to edit WM right and left temporal lobes (consider exclusion);WM temporal, quite much movement, maybe even exclude it;1
+897504950304    ;Nijmegen;include;include_edit_after_edits;rating_edit;rating_edit;rating_accept;dura mater, minor WM left temporal;"minor dura: left frontoparietal; minor WM: right frontal";minor dura;1
+899315846574    ;Nijmegen;include;direct_include;rating_edit;rating_accept;rating_accept;WM bilateral temporal;minor WM edit right temporal lobe;minor WM temporal;1
+899801407334    ;London_KCL;exclude;direct_exclude;rating_reject;rating_edit;rating_reject;several errors due to motion and scanner artefact (in frontal) not fixable;try to edit left and right temporal lobes, or exclude;too much ringing;1
+901406604818    ;Utrecht_UMCU;include;direct_include;rating_accept;rating_accept;rating_accept;;minor WM left temporal;;1
+902816250422    ;London_KCL;include;direct_include;rating_accept;rating_accept;rating_accept;;;;1
+903699871522    ;London_KCL;include;direct_include;rating_edit;rating_accept;rating_accept;minor error in WM frontal (also acceptable);;minor WM left frontal;1
+903730653877    ;Nijmegen;include;include_edit_after_edits;rating_edit;rating_edit;rating_accept;WM frontal;dura right frontal (minor), WM left and right temporal;movement;1
+903795797832    ;Mannheim;include;direct_include;rating_accept;rating_accept;rating_accept;;minor WM right frontal;;1
+904845061828    ;London_KCL;include;include_edit_after_edits;rating_edit;rating_edit;rating_accept;WM right temporal;WM left and right temporal lobes;minor dura;1
+908674294639    ;Utrecht_UMCU;include;direct_include;rating_accept;rating_accept;rating_accept;;;minor WM left frontal;1
+908722914011    ;London_KCL;include;direct_include;rating_accept;rating_accept;rating_accept;acceptable, very minor in dura and WM left temporal;minor dura right frontal;minor dura;1
+910766345418    ;Nijmegen;include;include_edit_after_edits;rating_edit;rating_edit;rating_edit;WM bilateral temporal;"WM right temporal; minor WM left temporal";WM temporal, minor right frontal, minor dura;1
+911363863036    ;London_KCL;include;include_edit_after_edits;rating_edit;rating_edit;rating_edit;WM frontal, right temporal and bilateral parietal (also some cloning errors);"minor WM edits frontal; WM edits right temporal";WM frontal, minor temporal, right parietal;1
+912918777725    ;Nijmegen;include;direct_include;rating_accept;rating_accept;rating_accept;;;;1
+916074864275    ;London_KCL;include;direct_include;rating_accept;rating_accept;rating_accept;;;very minor WM left frontal and left temporal;1
+917478470556    ;Nijmegen;include;direct_include;rating_edit;rating_accept;rating_accept;WM right frontal (minor), and left temporal;;very minor left temporal;1
+920590066881    ;London_KCL;include;direct_include;rating_edit;rating_accept;rating_accept;WM frontal;;minor WM right frontal;1
+923908026564    ;Nijmegen;include;include_edit_after_edits;rating_edit;rating_edit;rating_edit;WM left temporal, minor dura mater;"dura right parietal; WM left temporal";WM temporal, especially left, tiny bits of dura;1
+924898223873    ;Utrecht_UMCU;include;direct_include;rating_accept;rating_accept;rating_accept;;;;1
+926056905071    ;London_KCL;include;include_edit_after_edits;rating_edit;rating_edit;rating_reject;dura mater. Note: mega cisterna magna and ventricle dilation;dura right frontal;too much movement, temporal lobes look distorted, quite large  ventricels;1
+927090337769    ;Rome;include;direct_include;rating_accept;rating_accept;rating_accept;;minor WM left and right temporal;minor dura;1
+928192954187    ;Cambridge;include;direct_include;rating_accept;rating_accept;rating_accept;;;very minor WM frontal and temporal;1
+929367768579    ;Cambridge;include;direct_include;rating_accept;rating_accept;rating_accept;;minor WM left temporal lobe;;1
+929896672696    ;London_KCL;exclude;direct_exclude;rating_edit;rating_edit;rating_reject;very severe WM errors in frontal and bilatreral tmporal due to the bad quality of the scan. Consider exclusion;try to edit WM minor frontal, major temporal (consider exclusion);too much movement;1
+930108800338    ;London_KCL;include;include_edit_after_edits;rating_edit;rating_edit;rating_edit;WM right frontal and left temporal;WM left temporal;minor WM frontal and temporal;1
+935036952888    ;Nijmegen;include;direct_include;rating_accept;rating_accept;rating_edit;;;minor WM right frontal and temporal;1
+935602774297    ;London_KCL;include;direct_include;rating_edit;rating_accept;rating_accept;dura mater;minor dura edits left and right parietal;minor dura;1
+937503165305    ;London_KCL;include;include_edit_after_edits;rating_edit;rating_accept;rating_edit;WM frontal and left temporal, cloning in right parietal;;WM frontal and temporal, both especially left;1
+940129554568    ;London_KCL;include;direct_include;rating_edit;rating_accept;rating_accept;WM frontal, bilateral temporal (especialy left) and left occipital;minor WM edits left and right temporal;minor WM right frontal, very minor WM temporal, tiny bits of dura;1
+942412768004    ;London_KCL;include;direct_include;rating_accept;rating_accept;rating_accept;one minor error in dura mater;;;1
+942911490704    ;London_KCL;include;include_orig_after_edits;rating_edit;rating_accept;rating_edit;WM bilateral temporal (especially right), right parietal and occipital;minor WM edits left and right temporal lobes;WM right frontal and occipital, minor temporal;1
+943052269428    ;Mannheim;include;include_edit_after_edits;rating_edit;rating_edit;rating_accept;dura mater;dura left fronto-parietal;minor dura;1
+943077068306    ;London_KCL;include;include_edit_after_edits;rating_edit;rating_accept;rating_edit;WM frontal;;WM right frontal, minor right temporal;1
+943451413620    ;London_KCL;include;include_edit_after_edits;rating_edit;rating_edit;rating_edit;WM frontal and left temporal;WM left and right temporal;WM right frontal, left temporal;1
+947449494863    ;London_KCL;include;direct_include;rating_accept;rating_accept;rating_accept;acceptable, one dura mater error;;minor dura;1
+948879559425    ;Mannheim;include;direct_include;rating_edit;rating_accept;rating_accept;minor dura mater errors;;minor WM right frontal, very minor WM left temporal, tiny bits of dura;1
+949903300427    ;Nijmegen;include;include_edit_after_edits;rating_edit;rating_edit;rating_accept;dura mater;minor dura left and right frontal;minor dura, movement;1
+949919986568    ;Nijmegen;include;direct_include;rating_accept;rating_accept;rating_accept;;;;1
+951201842005    ;Cambridge;include;include_edit_after_edits;rating_edit;rating_edit;rating_edit;dura mater;dura left and right frontal to parietal;dura, quite much movement;1
+951869822258    ;Nijmegen;include;direct_include;rating_accept;rating_accept;rating_accept;;minor left and right WM temporal;minor WM right temporal;1
+952847408985    ;London_KCL;include;include_edit_after_edits;rating_edit;rating_reject;rating_edit;errors in WM segemnattion due to anatomical abnormaality (dilated lateral ventricles). To discuss.;anatomical abnormality, not sure if this can be edited;segmentation of ventricels flawed, minor dura;1
+954803363518    ;Nijmegen;include;include_edit_after_edits;rating_edit;rating_accept;rating_edit;WM left temporal;;minor WM right frontal and left temporal, movement;1
+955634127896    ;Utrecht_UMCU;exclude;exclude_special;rating_edit;rating_accept;rating_accept;WM left temporal;;minor WM left frontal and left temporal;1
+955691864151    ;Rome;include;direct_include;rating_edit;rating_accept;rating_accept;minor WM left temporal and dura maetr (also acceptable);;minor WM left frontal, minor dura;1
+955846444559    ;Utrecht_UMCU;include;direct_include;rating_accept;rating_accept;rating_accept;;;tiny bit of dura;1
+957353099912    ;Cambridge;exclude;exclude_special;rating_edit;rating_edit;rating_edit;dura mater;"minor dura left and right frontal; WM right temporal";WM right temporal, dura;1
+958654301897    ;Cambridge;include;direct_include;rating_accept;rating_accept;rating_accept;;minor WM left temporal;minor WM left temporal, tiny bits of dura;1
+965298631661    ;Mannheim;include;direct_include;rating_accept;rating_accept;rating_accept;acceptable, one error in right frontal WM;;minor WM right frontal;1
+965502613428    ;Nijmegen;include;direct_include;rating_accept;rating_accept;rating_accept;acceptable, one minor error in temporal WM;minor WM right temporal lobe;minor WM left temporal;1
+966444082202    ;London_KCL;include;include_edit_after_edits;rating_edit;rating_accept;rating_edit;WM left temporal, minor dura mater;motion, but acceptable;WM temporal, minor right frontal, movement;1
+967054049535    ;Rome;include;direct_include;rating_accept;rating_accept;rating_edit;some errors in surfaces due to motion not fixable;ringing/motion, but acceptable;minor WM right frontal and temporal, but quite bad ringing, maybe even exclude it;1
+968176942032    ;Utrecht_UMCU;include;direct_include;rating_accept;rating_accept;rating_accept;;;;1
+971064170845    ;Cambridge;exclude;exclude_special;rating_accept;rating_accept;rating_accept;only one minor error in left occipital WM;;;1
+973745688281    ;Nijmegen;include;direct_include;rating_accept;rating_accept;rating_accept;only one minor error in lefttemporal pole;;;1
+975181157252    ;London_KCL;include;include_edit_after_edits;rating_edit;rating_accept;rating_edit;minor errors in WM frontal and occipital, and in dura mater (also acceptable);minor WM prefrontal;minor WM frontal and left temporal;1
+975493741410    ;Nijmegen;include;direct_include;rating_accept;rating_edit;rating_accept;acceptable, one minor error in dura mater;WM right temporal;;1
+976537183752    ;Mannheim;include;direct_include;rating_edit;rating_accept;rating_accept;dura mater;minor dura left and right fronto-parietal;minor WM temporal, minor dura, but possibly difficult to delete because of movement;1
+977462585747    ;London_KCL;include;direct_include;rating_edit;rating_accept;rating_accept;frontal WM and cloning error;minor dura left and right fronto-parietal;movement;1
+978147973273    ;London_KCL;exclude;direct_exclude;rating_reject;rating_edit;rating_reject;several major errors due to severe motion artifacts;"ringing, try to edit WM temporal, occipital; maybe exclude!";too much movement or ringing;1
+980380935550    ;Nijmegen;include;direct_include;rating_accept;rating_accept;rating_accept;;;;1
+981843419748    ;London_KCL;include;direct_include;rating_accept;rating_accept;rating_accept;;;minor WM temporal;1
+982466523824    ;Nijmegen;include;include_edit_after_edits;rating_edit;rating_edit;rating_edit;dura mater;minor dura edits, minor WM edits right and left temporal lobes;minor right frontal and temporla, minor dura, maybe even accept as is;1
+984936877352    ;London_KCL;include;direct_include;rating_edit;rating_accept;rating_accept;di;;minor dura;1
+985195424662    ;Cambridge;include;direct_include;rating_accept;rating_accept;rating_accept;;;minor WM temporal;1
+988758069798    ;Nijmegen;include;include_edit_after_edits;rating_edit;rating_edit;rating_edit;dura mater, WM frontal and left temporal;"dura left fronto-parietal; WM right temporal, minor WM right frontal";minor WM right frontal, (left) temporal, minor dura;1
+989524720202    ;Nijmegen;include;direct_include;rating_accept;rating_accept;rating_accept;;;;1
+990040441082    ;London_KCL;include;direct_include;rating_edit;rating_accept;rating_accept;dura mater, minor WM right temporal;minor left and right temporal lobes;;1
+990822957437    ;Nijmegen;include;direct_include;rating_accept;rating_accept;rating_accept;;;;1
+991781762590    ;Mannheim;include;direct_include;rating_accept;rating_accept;rating_accept;;;;1
+992647735985    ;Cambridge;include;include_orig_after_edits;rating_edit;rating_edit;rating_edit;WM frontal and bilateral temporal;WM left temporal lobe;WM temporal, especially right and minor frontal;1
+995386881833    ;London_KCL;include;include_edit_after_edits;rating_edit;rating_edit;rating_edit;WM frontal and left temporal;WM left temporal lobe;WM left temporal;1
+997038807877    ;London_KCL;include;include_edit_after_edits;rating_edit;rating_edit;rating_edit;WM frontal and left temporal;minor WM left frontal, minor WM left and right temporal;WM left frontal;1
+998970787658    ;Rome;include;include_edit_after_edits;rating_edit;rating_edit;rating_edit;WM bilateral temporal;WM left and right temporal lobes (if impossible to edit, include);WM right frontal, movement;1
+999883621045    ;Nijmegen;include;include_edit_after_edits;rating_edit;rating_edit;rating_edit;dura mater;dura edits left and right fronto-parietal;dura;1
