@@ -4,7 +4,7 @@ This notebook performs normative modelling analysis on data from EU-AIMS consort
 ## Data
 Data includes cortical thickness and demographic/clinical informations for all subjects. 
 
-Note that Autism scores are only avaible for EU-AIMS data. 
+Note that Autism scores are only available for EU-AIMS data. Description can be found in the Data folder. 
 
 ## Modelling
 This code runs warped Bayesian linear regression (BLR) from the 'PCNtoolkit' packages. 
