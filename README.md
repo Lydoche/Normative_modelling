@@ -1,5 +1,5 @@
 # Normative Modelling
-This notebook performs normative modelling analysis on data from EU-AIMS consortium and Robert Debré Hospital (Paris) for ASD study.
+This notebook performs normative modelling analysis on data from EU-AIMS consortium and Robert Debré Hospital (Paris) to study brain features in ASD.
 
 ## Data
 Data includes cortical thickness, surface areas and demographic, clinical informations for all subjects. 
