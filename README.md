@@ -2,9 +2,7 @@
 This notebook performs normative modelling analysis on data from EU-AIMS consortium and Robert Debré Hospital (Paris) to study brain features in ASD.
 
 ## Data
-Data includes cortical thickness, surface areas and demographic, clinical informations for all subjects. 
-
-Note that autism scores are only available for EU-AIMS data. Description of these scores can be found in the data folder.  
+Data includes cortical thickness / surface areas and demographic / clinical / genetic informations for each subject.   
 
 ## Modelling
 This code runs warped Bayesian linear regression (BLR) from the 'PCNtoolkit' packages. 
