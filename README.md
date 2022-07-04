@@ -23,18 +23,11 @@ Use [scikit-learn](https://scikit-learn.org/stable/) packages.
 ## Spearman's correlation
 Computes correlation between Z-Scores and autism test scores for each cluster.
 
-
-
 Use [scipy](https://scipy.org/) packages. 
 
-## T-Tests
-Perfoms case-control tests between ASD Z-Scores and TD Z-Scores.
-
-Use scipy and [statsmodels](https://www.statsmodels.org/stable/index.html) packages.
 
 ## Brain maps
 Maps atypicality based on Z-Scores across brain regions. 
-
 
 Maps model evaluation metrics (e.g. Explained variance) across brain regions.
 
