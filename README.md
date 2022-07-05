@@ -19,7 +19,7 @@ Finds clusters in Z-Scores to stratify autism on normative cortical thickness wi
 Uses [scikit-learn](https://scikit-learn.org/stable/) packages. 
 
 ## Spearman's correlation
-Computes correlation between Z-Scores and autism test scores for each cluster.
+Computes correlation between Z-Scores and autism-related test scores and polygenic scores for each cluster.
 
 Uses [scipy](https://scipy.org/) packages. 
 
